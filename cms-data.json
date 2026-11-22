@@ -153,7 +153,6 @@
     "bankAccountName": "TRAN XUAN BACH",
     "paymentCheckUrl": "https://script.google.com/macros/s/AKfycbwvLtYkTYuDmQEfvb-OpqganV1v9N6OCdduxEqA8LesWfG9CtRSpwKUcIo3R0T5jMYL/exec",
     "orderWebhookUrl": "https://script.google.com/macros/s/AKfycbxlfBa0eDSAt1Vu4a91EcGffsxHP0TaB0ESG6hCGQgRIBUsYIr6Uq-y9bcDn5_0fdA/exec",
-    "telegramBotToken": "9191769650:AAE5DftTFGtz7HGoZznGS_dz5Ov50i-7kDo",
     "telegramChatId": "8516660009",
     "telegramLastUpdateId": 837864788,
     "telegramAutoSync": true,
@@ -358,8 +357,15 @@
       "imageUrl": "./uploads/1794907900679-edited-1794907900668.jpg",
       "backImageUrl": "",
       "galleryUrls": [
-        "./uploads/1794907922152-edited-1794907922140.jpg"
-      ]
+        "./uploads/1794907922152-edited-1794907922140.jpg",
+        "./images/shopee/47312387101.jpg"
+      ],
+      "shopee": {
+        "itemId": "47312387101",
+        "url": "https://shopee.vn/M%E1%BA%A1ch-%C4%90i%E1%BB%81u-Khi%E1%BB%83n-Trung-T%C3%A2m-Robot-ROBOCON-STM32H743ZIT6-i.993303436.47312387101",
+        "soldCount": 0,
+        "importedOn": "2026-11-23"
+      }
     },
     {
       "id": "smart-servo-pid-driver",
@@ -453,8 +459,15 @@
       "imageUrl": "./uploads/1794907765139-edited-1794907765129.jpg",
       "backImageUrl": "",
       "galleryUrls": [
-        "./uploads/1794907739612-edited-1794907739602.jpg"
-      ]
+        "./uploads/1794907739612-edited-1794907739602.jpg",
+        "./images/shopee/41481786434.jpg"
+      ],
+      "shopee": {
+        "itemId": "41481786434",
+        "url": "https://shopee.vn/Driver-Smart-PID-%C4%91i%E1%BB%81u-khi%E1%BB%83n-%C4%91%E1%BB%99ng-c%C6%A1-DC-i.993303436.41481786434",
+        "soldCount": 1,
+        "importedOn": "2026-11-23"
+      }
     },
     {
       "id": "imu-industrial-9axis",
@@ -1065,7 +1078,13 @@
       "architectureDiagram": "[Tay cầm / PC MATLAB] ──(UART/BLE)──► [Bo chủ H743ZIT6R1]\n                                          ├──► 4x Bánh Mecanum (PIDSM)\n                                          └──◄ [IMU 9 trục + 3x Laser]",
       "codeSnippetTitle": "Lệnh thu thập bảng số liệu thực nghiệm về PC / MATLAB",
       "codeSnippet": "// Bật chế độ xuất dữ liệu thí nghiệm 50Hz:\n$LOG,ON\r\n\n// Dữ liệu nhận được để vẽ đồ thị trong báo cáo:\n// \"DATA,t_ms,X_set,X_real,Y_set,Y_real,Yaw_deg,RPM1,RPM2,RPM3,RPM4\"",
-      "visualType": "h743-robot"
+      "visualType": "h743-robot",
+      "imageUrl": "./uploads/1795370986225-1795363944610_554864945929511200_3717838.jpg",
+      "backImageUrl": "",
+      "galleryUrls": [
+        "./uploads/1795370986205-1795363950312_554864945929511200_3717838.jpg",
+        "./uploads/1795370986217-1795363944650_554864945929511200_3717838.jpg"
+      ]
     },
     {
       "id": "kit-servo-pid-lab",
@@ -1234,7 +1253,6 @@
     {
       "id": "custom-3d-printing-service",
       "code": "IN3D-REQ",
-      "imageUrl": "./images/tbx-in3d-mau-in.jpg",
       "revision": "PLA+ · PETG · TPU-ABS -CF",
       "originType": "commercial",
       "category": "mechanics-parts",
@@ -1319,9 +1337,686 @@
       "architectureDiagram": "[File 3D (.STL / .STEP) hoặc Bản vẽ kích thước] ──► [Cắt lớp tối ưu chịu lực] ──► [In 3D + Gỡ support] ──► [Giao hàng tận nơi]",
       "codeSnippetTitle": "Quy cách gửi file báo giá in 3D qua Zalo / Ghi chú đơn",
       "codeSnippet": "1. Gửi file .STL / .STEP (hoặc ảnh kích thước dài x rộng x cao mm)\n2. Chọn vật liệu (PLA+ đẹp/cứng, PETG chịu lực/nhiệt, TPU dẻo)\n3. Chọn độ đặc Infill (20% vỏ hộp thường · 60-100% chi tiết chịu tải) & số lượng cần in",
+      "visualType": "io-encoder",
+      "imageUrl": "./images/tbx-in3d-mau-in.jpg",
+      "shopee": {
+        "itemId": "52460610696",
+        "url": "https://shopee.vn/In-3D-theo-y%C3%AAu-c%E1%BA%A7u-gi%C3%A1-400-%C4%91-g-xem-m%C3%B4-t%E1%BA%A3-v%C3%A0-li%C3%AAn-h%E1%BB%87-shop-%C4%91%E1%BB%83-nh%E1%BA%ADn-b%C3%A1o-gi%C3%A1-kh%C3%B4ng-%C4%91%E1%BA%B7t-tr%C6%B0%E1%BB%9Bc-i.993303436.52460610696",
+        "soldCount": 173,
+        "rating": 4.8,
+        "reviewCount": 35,
+        "ratingCounts": [
+          0,
+          1,
+          1,
+          1,
+          32
+        ],
+        "reviews": [
+          {
+            "date": "2026-10-13",
+            "excerpt": "in sắc nét"
+          },
+          {
+            "date": "2026-10-06",
+            "stars": 5,
+            "summary": "Người mua thấy bản in đẹp, nét và được shop phản hồi nhanh vào buổi tối."
+          },
+          {
+            "date": "2026-09-25",
+            "excerpt": "shop in đúng file"
+          },
+          {
+            "date": "2026-08-22",
+            "stars": 5,
+            "summary": "Người mua thấy mẫu cứng cáp và góp ý gọt bớt phần vật liệu thừa."
+          },
+          {
+            "date": "2026-08-20",
+            "stars": 5,
+            "summary": "Người mua hài lòng với giá, tốc độ phản hồi và việc shop nhận in chi tiết nhỏ."
+          },
+          {
+            "date": "2026-08-10",
+            "stars": 5,
+            "summary": "Người mua đánh giá tốt chất lượng, đồng thời cho biết còn thiếu vài bộ phận."
+          },
+          {
+            "date": "2026-08-01",
+            "stars": 5,
+            "summary": "Người mua đánh giá tốt chất lượng mẫu và giới thiệu shop."
+          },
+          {
+            "date": "2026-07-15",
+            "stars": 5,
+            "excerpt": "mô hình in sắc nét chuẩn thiết kế"
+          }
+        ],
+        "importedOn": "2026-11-23"
+      }
+    },
+    {
+      "id": "shopee-52662348646",
+      "shopee": {
+        "itemId": "52662348646",
+        "url": "https://shopee.vn/ESP32-38-PIN-c%E1%BB%95ng-type-C-micro-usb-i.993303436.52662348646",
+        "soldCount": 3,
+        "rating": 5,
+        "reviewCount": 1,
+        "reviews": [
+          {
+            "date": "2026-06-29",
+            "stars": 5
+          }
+        ],
+        "importedOn": "2026-11-23"
+      },
+      "code": "ESP32-DEV38",
+      "revision": "",
+      "originType": "commercial",
+      "category": "wireless",
+      "categoryLabel": {
+        "vi": "Bo phát triển",
+        "en": "Development boards"
+      },
+      "status": {
+        "vi": "Có hàng",
+        "en": "In stock"
+      },
+      "supplyForm": {
+        "vi": "",
+        "en": ""
+      },
+      "price": 120000,
+      "costPrice": 0,
+      "stock": 6,
+      "minStockAlert": 3,
+      "unit": "Cái",
+      "showTechnicalGuide": false,
+      "name": {
+        "vi": "ESP32 DevKit 38 chân USB-C / Micro USB",
+        "en": "ESP32 DevKit 38-pin USB-C / Micro USB"
+      },
+      "subtitle": {
+        "vi": "",
+        "en": ""
+      },
+      "description": {
+        "vi": "ESP32 DevKit 38 chân USB-C / Micro USB",
+        "en": "ESP32 DevKit 38-pin USB-C / Micro USB"
+      },
+      "imageUrl": "./images/shopee/52662348646.jpg",
+      "engineeringNotes": {
+        "vi": [],
+        "en": []
+      },
+      "techStack": [],
+      "specs": [],
+      "architectureDiagram": "",
+      "codeSnippetTitle": "",
+      "codeSnippet": "",
+      "visualType": "io-encoder"
+    },
+    {
+      "id": "shopee-45312689075",
+      "shopee": {
+        "itemId": "45312689075",
+        "url": "https://shopee.vn/M%E1%BA%A1ch-%C4%90i%E1%BB%81u-Khi%E1%BB%83n-%C4%90%E1%BB%99ng-C%C6%A1-Kh%C3%B4ng-Ch%E1%BB%95i-Than-dc6.5-50v-380w-bldc-i.993303436.45312689075",
+        "soldCount": 0,
+        "importedOn": "2026-11-23"
+      },
+      "code": "BLDC-380W",
+      "revision": "",
+      "originType": "commercial",
+      "category": "motor-driver",
+      "categoryLabel": {
+        "vi": "Động cơ & Driver",
+        "en": "Motors & drivers"
+      },
+      "status": {
+        "vi": "Có hàng",
+        "en": "In stock"
+      },
+      "supplyForm": {
+        "vi": "",
+        "en": ""
+      },
+      "price": 300000,
+      "costPrice": 0,
+      "stock": 8,
+      "minStockAlert": 3,
+      "unit": "Cái",
+      "showTechnicalGuide": false,
+      "name": {
+        "vi": "Mạch điều khiển động cơ BLDC 6,5–50 V, 380 W",
+        "en": "6.5–50 V, 380 W BLDC motor controller"
+      },
+      "subtitle": {
+        "vi": "",
+        "en": ""
+      },
+      "description": {
+        "vi": "Mạch điều khiển động cơ BLDC 6,5–50 V, 380 W",
+        "en": "6.5–50 V, 380 W BLDC motor controller"
+      },
+      "imageUrl": "./images/shopee/45312689075.jpg",
+      "engineeringNotes": {
+        "vi": [],
+        "en": []
+      },
+      "techStack": [],
+      "specs": [],
+      "architectureDiagram": "",
+      "codeSnippetTitle": "",
+      "codeSnippet": "",
+      "visualType": "io-encoder"
+    },
+    {
+      "id": "shopee-48906410895",
+      "shopee": {
+        "itemId": "48906410895",
+        "url": "https://shopee.vn/La-B%C3%A0n-S%E1%BB%91-IMU-MPU6050-i.993303436.48906410895",
+        "soldCount": 0,
+        "importedOn": "2026-11-23"
+      },
+      "code": "LA-BAN-MPU6050",
+      "revision": "",
+      "originType": "commercial",
+      "category": "sensor-hmi",
+      "categoryLabel": {
+        "vi": "Cảm biến",
+        "en": "Sensors"
+      },
+      "status": {
+        "vi": "Có hàng",
+        "en": "In stock"
+      },
+      "supplyForm": {
+        "vi": "",
+        "en": ""
+      },
+      "price": 350000,
+      "costPrice": 0,
+      "stock": 100,
+      "minStockAlert": 3,
+      "unit": "Cái",
+      "showTechnicalGuide": false,
+      "name": {
+        "vi": "La bàn số IMU-MPU6050",
+        "en": "MPU6050 IMU digital compass module"
+      },
+      "subtitle": {
+        "vi": "",
+        "en": ""
+      },
+      "description": {
+        "vi": "La bàn số IMU-MPU6050",
+        "en": "MPU6050 IMU digital compass module"
+      },
+      "imageUrl": "./images/shopee/48906410895.jpg",
+      "engineeringNotes": {
+        "vi": [],
+        "en": []
+      },
+      "techStack": [],
+      "specs": [],
+      "architectureDiagram": "",
+      "codeSnippetTitle": "",
+      "codeSnippet": "",
+      "visualType": "io-encoder"
+    },
+    {
+      "id": "shopee-55504066930",
+      "shopee": {
+        "itemId": "55504066930",
+        "url": "https://shopee.vn/ESP32-Devkit-30p-Ch%C3%A2n-Type-C-i.993303436.55504066930",
+        "soldCount": 18,
+        "rating": 5,
+        "reviewCount": 1,
+        "reviews": [
+          {
+            "date": "2026-03-18",
+            "stars": 5
+          }
+        ],
+        "importedOn": "2026-11-23"
+      },
+      "code": "ESP32-DEV30",
+      "revision": "",
+      "originType": "commercial",
+      "category": "wireless",
+      "categoryLabel": {
+        "vi": "Bo phát triển",
+        "en": "Development boards"
+      },
+      "status": {
+        "vi": "Tạm hết hàng",
+        "en": "Out of stock"
+      },
+      "supplyForm": {
+        "vi": "",
+        "en": ""
+      },
+      "price": 110000,
+      "costPrice": 0,
+      "stock": 0,
+      "minStockAlert": 3,
+      "unit": "Cái",
+      "showTechnicalGuide": false,
+      "name": {
+        "vi": "ESP32 DevKit 30 chân USB-C",
+        "en": "ESP32 DevKit 30-pin USB-C"
+      },
+      "subtitle": {
+        "vi": "",
+        "en": ""
+      },
+      "description": {
+        "vi": "ESP32 DevKit 30 chân USB-C",
+        "en": "ESP32 DevKit 30-pin USB-C"
+      },
+      "imageUrl": "./images/shopee/55504066930.jpg",
+      "engineeringNotes": {
+        "vi": [],
+        "en": []
+      },
+      "techStack": [],
+      "specs": [],
+      "architectureDiagram": "",
+      "codeSnippetTitle": "",
+      "codeSnippet": "",
+      "visualType": "io-encoder"
+    },
+    {
+      "id": "shopee-45662524280",
+      "shopee": {
+        "itemId": "45662524280",
+        "url": "https://shopee.vn/Motor-gi%E1%BA%A3m-t%E1%BB%91c-12-48-vol-si%C3%AAu-kho%E1%BA%BB.-i.993303436.45662524280",
+        "soldCount": 1,
+        "importedOn": "2026-11-23"
+      },
+      "code": "MOTOR-12-48V",
+      "revision": "",
+      "originType": "commercial",
+      "category": "mechanics-parts",
+      "categoryLabel": {
+        "vi": "Động cơ & Driver",
+        "en": "Motors & drivers"
+      },
+      "status": {
+        "vi": "Tạm hết hàng",
+        "en": "Out of stock"
+      },
+      "supplyForm": {
+        "vi": "",
+        "en": ""
+      },
+      "price": 350000,
+      "costPrice": 0,
+      "stock": 0,
+      "minStockAlert": 3,
+      "unit": "Cái",
+      "showTechnicalGuide": false,
+      "name": {
+        "vi": "Động cơ giảm tốc 12–48 V",
+        "en": "12–48 V geared motor"
+      },
+      "subtitle": {
+        "vi": "",
+        "en": ""
+      },
+      "description": {
+        "vi": "Động cơ giảm tốc 12–48 V",
+        "en": "12–48 V geared motor"
+      },
+      "imageUrl": "./images/shopee/45662524280.jpg",
+      "engineeringNotes": {
+        "vi": [],
+        "en": []
+      },
+      "techStack": [],
+      "specs": [],
+      "architectureDiagram": "",
+      "codeSnippetTitle": "",
+      "codeSnippet": "",
+      "visualType": "io-encoder"
+    },
+    {
+      "id": "shopee-56506384375",
+      "shopee": {
+        "itemId": "56506384375",
+        "url": "https://shopee.vn/Bo-m%E1%BA%A1ch-ph%C3%A1t-tri%E1%BB%83n-esp32-c3-supper-mini-d%C3%B9ng-cho-Ai-Bot-Chat-IOT-thi%E1%BA%BFt-b%E1%BB%8B-nh%C3%BAng.-i.993303436.56506384375",
+        "soldCount": 32,
+        "importedOn": "2026-11-23"
+      },
+      "code": "ESP32-C3-MINI",
+      "revision": "",
+      "originType": "commercial",
+      "category": "wireless",
+      "categoryLabel": {
+        "vi": "Bo phát triển",
+        "en": "Development boards"
+      },
+      "status": {
+        "vi": "Tạm hết hàng",
+        "en": "Out of stock"
+      },
+      "supplyForm": {
+        "vi": "",
+        "en": ""
+      },
+      "price": 65000,
+      "costPrice": 0,
+      "stock": 0,
+      "minStockAlert": 3,
+      "unit": "Cái",
+      "showTechnicalGuide": false,
+      "name": {
+        "vi": "Bo phát triển ESP32-C3 Super Mini",
+        "en": "ESP32-C3 Super Mini development board"
+      },
+      "subtitle": {
+        "vi": "",
+        "en": ""
+      },
+      "description": {
+        "vi": "Bo phát triển ESP32-C3 Super Mini",
+        "en": "ESP32-C3 Super Mini development board"
+      },
+      "imageUrl": "./images/shopee/56506384375.jpg",
+      "engineeringNotes": {
+        "vi": [],
+        "en": []
+      },
+      "techStack": [],
+      "specs": [],
+      "architectureDiagram": "",
+      "codeSnippetTitle": "",
+      "codeSnippet": "",
+      "visualType": "io-encoder"
+    },
+    {
+      "id": "shopee-54606384271",
+      "shopee": {
+        "itemId": "54606384271",
+        "url": "https://shopee.vn/Module-C%E1%BA%A3m-Bi%E1%BA%BFn-Gia-T%E1%BB%91c-G%C3%B3c-MPU6050-GY521-i.993303436.54606384271",
+        "soldCount": 10,
+        "rating": 5,
+        "reviewCount": 1,
+        "reviews": [
+          {
+            "date": "2026-06-10",
+            "stars": 5
+          }
+        ],
+        "importedOn": "2026-11-23"
+      },
+      "code": "MPU6050-GY521",
+      "revision": "",
+      "originType": "commercial",
+      "category": "sensor-hmi",
+      "categoryLabel": {
+        "vi": "Cảm biến",
+        "en": "Sensors"
+      },
+      "status": {
+        "vi": "Tạm hết hàng",
+        "en": "Out of stock"
+      },
+      "supplyForm": {
+        "vi": "",
+        "en": ""
+      },
+      "price": 45000,
+      "costPrice": 0,
+      "stock": 0,
+      "minStockAlert": 3,
+      "unit": "Cái",
+      "showTechnicalGuide": false,
+      "name": {
+        "vi": "Module cảm biến gia tốc và con quay MPU6050 GY-521",
+        "en": "MPU6050 GY-521 accelerometer and gyroscope module"
+      },
+      "subtitle": {
+        "vi": "",
+        "en": ""
+      },
+      "description": {
+        "vi": "Module cảm biến gia tốc và con quay MPU6050 GY-521",
+        "en": "MPU6050 GY-521 accelerometer and gyroscope module"
+      },
+      "imageUrl": "./images/shopee/54606384271.jpg",
+      "engineeringNotes": {
+        "vi": [],
+        "en": []
+      },
+      "techStack": [],
+      "specs": [],
+      "architectureDiagram": "",
+      "codeSnippetTitle": "",
+      "codeSnippet": "",
+      "visualType": "io-encoder"
+    },
+    {
+      "id": "shopee-54112805819",
+      "shopee": {
+        "itemId": "54112805819",
+        "url": "https://shopee.vn/STM32F103C8T6-LQFP-48-ch%C3%ADnh-h%C3%A3ng-R%E1%BA%BB-V%C3%B4-%C4%90%E1%BB%8Bch--i.993303436.54112805819",
+        "soldCount": 123,
+        "rating": 4,
+        "reviewCount": 2,
+        "importedOn": "2026-11-23"
+      },
+      "code": "STM32F103-LQFP48",
+      "revision": "",
+      "originType": "commercial",
+      "category": "other-goods",
+      "categoryLabel": {
+        "vi": "Vi điều khiển",
+        "en": "Microcontrollers"
+      },
+      "status": {
+        "vi": "Tạm hết hàng",
+        "en": "Out of stock"
+      },
+      "supplyForm": {
+        "vi": "",
+        "en": ""
+      },
+      "price": 29000,
+      "costPrice": 0,
+      "stock": 0,
+      "minStockAlert": 3,
+      "unit": "Cái",
+      "showTechnicalGuide": false,
+      "name": {
+        "vi": "Vi điều khiển STM32F103C8T6 LQFP-48",
+        "en": "STM32F103C8T6 LQFP-48 microcontroller"
+      },
+      "subtitle": {
+        "vi": "",
+        "en": ""
+      },
+      "description": {
+        "vi": "Vi điều khiển STM32F103C8T6 LQFP-48",
+        "en": "STM32F103C8T6 LQFP-48 microcontroller"
+      },
+      "imageUrl": "./images/shopee/54112805819.jpg",
+      "engineeringNotes": {
+        "vi": [],
+        "en": []
+      },
+      "techStack": [],
+      "specs": [],
+      "architectureDiagram": "",
+      "codeSnippetTitle": "",
+      "codeSnippet": "",
+      "visualType": "io-encoder"
+    },
+    {
+      "id": "shopee-48657922930",
+      "shopee": {
+        "itemId": "48657922930",
+        "url": "https://shopee.vn/-R%E1%BA%BB-V%C3%B4-%C4%90%E1%BB%8Bch-Kit-STM32F103C8T6-chi%CC%81nh-ha%CC%83ng-Mini-STM32-ARM-i.993303436.48657922930",
+        "soldCount": 22,
+        "importedOn": "2026-11-23"
+      },
+      "code": "KIT-STM32F103",
+      "revision": "",
+      "originType": "commercial",
+      "category": "robot-controller",
+      "categoryLabel": {
+        "vi": "Bo phát triển",
+        "en": "Development boards"
+      },
+      "status": {
+        "vi": "Tạm hết hàng",
+        "en": "Out of stock"
+      },
+      "supplyForm": {
+        "vi": "",
+        "en": ""
+      },
+      "price": 60000,
+      "costPrice": 0,
+      "stock": 0,
+      "minStockAlert": 3,
+      "unit": "Cái",
+      "showTechnicalGuide": false,
+      "name": {
+        "vi": "Kit Mini STM32 ARM STM32F103C8T6",
+        "en": "STM32F103C8T6 Mini ARM development kit"
+      },
+      "subtitle": {
+        "vi": "",
+        "en": ""
+      },
+      "description": {
+        "vi": "Kit Mini STM32 ARM STM32F103C8T6",
+        "en": "STM32F103C8T6 Mini ARM development kit"
+      },
+      "imageUrl": "./images/shopee/48657922930.jpg",
+      "engineeringNotes": {
+        "vi": [],
+        "en": []
+      },
+      "techStack": [],
+      "specs": [],
+      "architectureDiagram": "",
+      "codeSnippetTitle": "",
+      "codeSnippet": "",
+      "visualType": "io-encoder"
+    },
+    {
+      "id": "shopee-45862697718",
+      "shopee": {
+        "itemId": "45862697718",
+        "url": "https://shopee.vn/Module-h%E1%BA%A1-%C3%A1p-3A-LM2596-%C4%91%E1%BA%A7u-ra-c%E1%BB%91-%C4%91%E1%BB%8Bnh-%E1%BB%95n-%C3%A1p-3V3-5V-12V-i.993303436.45862697718",
+        "soldCount": 0,
+        "importedOn": "2026-11-23"
+      },
+      "code": "LM2596-3A",
+      "revision": "",
+      "originType": "commercial",
+      "category": "other-goods",
+      "categoryLabel": {
+        "vi": "Nguồn điện",
+        "en": "Power supplies"
+      },
+      "status": {
+        "vi": "Tạm hết hàng",
+        "en": "Out of stock"
+      },
+      "supplyForm": {
+        "vi": "",
+        "en": ""
+      },
+      "price": 29050,
+      "costPrice": 0,
+      "stock": 0,
+      "minStockAlert": 3,
+      "unit": "Cái",
+      "showTechnicalGuide": false,
+      "name": {
+        "vi": "Module hạ áp LM2596 3 A, đầu ra cố định 3,3 V / 5 V / 12 V",
+        "en": "LM2596 3 A buck module, fixed 3.3 V / 5 V / 12 V"
+      },
+      "subtitle": {
+        "vi": "",
+        "en": ""
+      },
+      "description": {
+        "vi": "Module hạ áp LM2596 3 A, đầu ra cố định 3,3 V / 5 V / 12 V",
+        "en": "LM2596 3 A buck module, fixed 3.3 V / 5 V / 12 V"
+      },
+      "imageUrl": "./images/shopee/45862697718.jpg",
+      "engineeringNotes": {
+        "vi": [],
+        "en": []
+      },
+      "techStack": [],
+      "specs": [],
+      "architectureDiagram": "",
+      "codeSnippetTitle": "",
+      "codeSnippet": "",
+      "visualType": "io-encoder"
+    },
+    {
+      "id": "shopee-41883706072",
+      "shopee": {
+        "itemId": "41883706072",
+        "url": "https://shopee.vn/-LKDTHM-HM007-STM32F103C8T6-ch%C3%ADnh-h%C3%A3ng-Chip-ARM-STM32-Cortex-M3-32-bit-i.993303436.41883706072",
+        "soldCount": 0,
+        "importedOn": "2026-11-23"
+      },
+      "code": "STM32F103-HM007",
+      "revision": "",
+      "originType": "commercial",
+      "category": "other-goods",
+      "categoryLabel": {
+        "vi": "Vi điều khiển",
+        "en": "Microcontrollers"
+      },
+      "status": {
+        "vi": "Tạm hết hàng",
+        "en": "Out of stock"
+      },
+      "supplyForm": {
+        "vi": "",
+        "en": ""
+      },
+      "price": 29000,
+      "costPrice": 0,
+      "stock": 0,
+      "minStockAlert": 3,
+      "unit": "Cái",
+      "showTechnicalGuide": false,
+      "name": {
+        "vi": "Vi điều khiển STM32F103C8T6 Cortex-M3 (HM007)",
+        "en": "STM32F103C8T6 Cortex-M3 microcontroller (HM007)"
+      },
+      "subtitle": {
+        "vi": "",
+        "en": ""
+      },
+      "description": {
+        "vi": "Vi điều khiển STM32F103C8T6 Cortex-M3 (HM007)",
+        "en": "STM32F103C8T6 Cortex-M3 microcontroller (HM007)"
+      },
+      "imageUrl": "./images/shopee/41883706072.jpg",
+      "engineeringNotes": {
+        "vi": [],
+        "en": []
+      },
+      "techStack": [],
+      "specs": [],
+      "architectureDiagram": "",
+      "codeSnippetTitle": "",
+      "codeSnippet": "",
       "visualType": "io-encoder"
     }
   ],
+  "shopeeCatalogImported": true,
   "services": [
     {
       "id": "project-graduation-support",
@@ -1468,46 +2163,48 @@
       }
     }
   ],
-  "orders": [],
-  "stockHistory": [],
   "print3dMaterials": [
     {
       "id": "pla",
       "name": "PLA",
       "pricePerGram": 800,
       "baseFee": 0,
-      "note": "Đẹp, cứng, vỏ hộp & mô hình"
+      "note": "Đẹp, cứng, vỏ hộp & mô hình",
+      "costPricePerGram": 250
     },
     {
       "id": "petg",
       "name": "PETG",
       "pricePerGram": 400,
       "baseFee": 0,
-      "note": "Chịu lực & chịu nhiệt tốt"
+      "note": "Chịu lực & chịu nhiệt tốt",
+      "costPricePerGram": 200
     },
     {
       "id": "abs",
       "name": "ABS",
       "pricePerGram": 1300,
       "baseFee": 0,
-      "note": "Cơ khí chịu nhiệt cao"
+      "note": "Cơ khí chịu nhiệt cao",
+      "costPricePerGram": 300
     },
     {
       "id": "tpu",
       "name": "TPU",
       "pricePerGram": 1600,
       "baseFee": 0,
-      "note": "Đàn hồi, giảm chấn"
+      "note": "Đàn hồi, giảm chấn",
+      "costPricePerGram": 450
     },
     {
       "id": "carbon-cf",
       "name": "Cacbon CF",
       "pricePerGram": 30000,
       "baseFee": 0,
-      "note": "Sợi carbon kỹ thuật siêu cứng"
+      "note": "Sợi carbon kỹ thuật siêu cứng",
+      "costPricePerGram": 1500
     }
   ],
-  "print3dOrders": [],
   "print3dSetup": {
     "printerModel": "Creality Khổ Lớn 800×800 (0.4 nozzle)",
     "nozzleMm": 0.4,
@@ -1518,6 +2215,7 @@
     "supportEnabled": true,
     "maxBuildX": 800,
     "maxBuildY": 800,
-    "maxBuildZ": 800
+    "maxBuildZ": 800,
+    "defaultShopCommissionPercent": 25
   }
 }
