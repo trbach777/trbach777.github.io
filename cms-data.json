@@ -1,0 +1,1522 @@
+{
+  "profile": {
+    "name": "TeeBi & Robot",
+    "brandName": "TBX Electrics",
+    "logoMonogram": "TBX",
+    "logoImageUrl": "",
+    "heroImageUrl": "./images/hero-chip-robot.jpg",
+    "docCode": "TBX-2026.11",
+    "topNotice": {
+      "vi": "Giao hàng toàn quốc COD · Kiểm tra & Test mạch 100% trước khi gửi",
+      "en": "Nationwide COD Shipping · 100% Load-Tested Before Dispatch"
+    },
+    "role": {
+      "vi": "Mạch Điều Khiển Động Cơ · STM32 · Động Cơ & Bánh Xe",
+      "en": "Motor Drivers · STM32 Robot Controllers · Motors & Mecanum Parts"
+    },
+    "tagline": {
+      "vi": "",
+      "en": ""
+    },
+    "availabilityBadge": {
+      "vi": "TBX ELECTRICS · TEEBI & ROBOT",
+      "en": "TBX ELECTRICS · TEEBI & ROBOT"
+    },
+    "policyBadges": [
+      {
+        "vi": "Giao hàng COD toàn quốc",
+        "en": "Nationwide COD Shipping"
+      },
+      {
+        "vi": "Test  trước khi gửi",
+        "en": "100% Load-Tested Before Dispatch"
+      },
+      {
+        "vi": "Hướng dẫn chi tiết",
+        "en": "Includes Pinout & Command Docs"
+      },
+      {
+        "vi": "Hỗ trợ kỹ thuật trực tiếp Zalo",
+        "en": "Direct Zalo Tech Support"
+      }
+    ],
+    "catalogEyebrow": {
+      "vi": "Kho hàng trực tuyến — Sẵn hàng giao ngay",
+      "en": "Online Hardware Store — In Stock"
+    },
+    "catalogTitle": {
+      "vi": "Danh mục sản phẩm ",
+      "en": "Featured Boards & Robotics Components"
+    },
+    "tabAllLabel": {
+      "vi": "Tất cả sản phẩm",
+      "en": "All Products"
+    },
+    "tabSelfMadeLabel": {
+      "vi": "Mạch điều khiển & Module",
+      "en": "Control Boards & Modules"
+    },
+    "tabCommercialLabel": {
+      "vi": "Động cơ & Phụ kiện",
+      "en": "Motors & Accessories"
+    },
+    "tabProjectLabel": {
+      "vi": "Sản phẩm Đồ án & NCKH",
+      "en": "Project & Research Kits"
+    },
+    "servicesEyebrow": {
+      "vi": "Hỗ trợ Đồ án Kỹ thuật · Nghiên cứu Khoa học (NCKH)",
+      "en": "Engineering Projects & Academic Research Support"
+    },
+    "servicesTitle": {
+      "vi": "Nhận Hỗ trợ Đồ án Môn học, Đồ án Tốt nghiệp & Đề tài NCKH",
+      "en": "Custom Hardware, Prototypes & Lab Systems for Engineering Projects & Research"
+    },
+    "servicesSubtitle": {
+      "vi": "Đồng hành cùng sinh viên, học viên cao học và nhóm nghiên cứu: từ thiết kế mạch, lắp mô hình thực tế, đo đạc thực nghiệm lấy số liệu biểu đồ đến bàn giao trọn bộ kèm tài liệu nguyên lý phục vụ bảo vệ.",
+      "en": "Supporting students and R&D teams from schematic & prototype assembly to experimental data logging and technical defense documentation."
+    },
+    "buyingStepsTitle": {
+      "vi": "Quy trình Đặt hàng — Kiểm tra — Bảo hành tại Shop",
+      "en": "Store Buying, Testing & Warranty Process"
+    },
+    "buyingSteps": [
+      {
+        "step": "01",
+        "title": {
+          "vi": "Chọn sản phẩm vào giỏ",
+          "en": "Add Items to Cart"
+        },
+        "desc": {
+          "vi": "Thêm mạch hoặc phụ kiện vào giỏ và gửi thông tin nhận hàng trong 30 giây.",
+          "en": "Add boards or parts and submit delivery info in 30 seconds."
+        }
+      },
+      {
+        "step": "02",
+        "title": {
+          "vi": "Xác nhận & gửi ảnh test mạch",
+          "en": "Test Proof Before Dispatch"
+        },
+        "desc": {
+          "vi": "Shop nạp sẵn firmware, test tải thực tế và gửi ảnh/video qua Zalo trước khi đóng gói.",
+          "en": "Every board is pre-flashed and load-tested with proof shared on Zalo."
+        }
+      },
+      {
+        "step": "03",
+        "title": {
+          "vi": "Giao hàng COD toàn quốc",
+          "en": "Nationwide COD Delivery"
+        },
+        "desc": {
+          "vi": "Đóng gói chống tĩnh điện, kèm phiếu sơ đồ chân cắm; nhận hàng kiểm tra rồi thanh toán.",
+          "en": "ESD-safe packaging with printed pinout guide and nationwide COD."
+        }
+      },
+      {
+        "step": "04",
+        "title": {
+          "vi": "Hỗ trợ đấu nối 1-1",
+          "en": "1-1 Technical Support"
+        },
+        "desc": {
+          "vi": "Hướng dẫn cấp nguồn, nối động cơ và gửi tập lệnh điều khiển trực tiếp qua Zalo.",
+          "en": "Direct wiring assistance and command setup over Zalo."
+        }
+      }
+    ],
+    "contactEyebrow": {
+      "vi": "Báo giá sỉ & Hỗ trợ kỹ thuật",
+      "en": "Wholesale & Technical Support"
+    },
+    "contactTitle": {
+      "vi": "Đặt hàng số lượng, thiết kế mạch hoặc hỗ trợ đấu nối",
+      "en": "Bulk Orders, Custom PCB Design & Technical Support"
+    },
+    "contactSubtitle": {
+      "vi": "Khách hàng đặt số lượng lớn, đặt thiết kế mạch riêng hoặc cần hỗ trợ bảo hành / đấu nối vui lòng gọi / nhắn Zalo 0789044703, email tranbach9805@gmail.com hoặc gửi yêu cầu bên dưới.",
+      "en": "For volume pricing, custom board design, or wiring support, call/Zalo 0789044703, email tranbach9805@gmail.com, or submit your request below."
+    },
+    "location": {
+      "vi": "Việt Nam (Làm việc trực tiếp & Giao hàng toàn quốc)",
+      "en": "Vietnam (On-site & Nationwide Delivery)"
+    },
+    "email": "tranbach9805@gmail.com",
+    "phone": "0789044703",
+    "zaloLink": "https://zalo.me/0789044703",
+    "githubUrl": "https://github.com/trbach777",
+    "linkedinUrl": "https://linkedin.com/in/tran-xuan-bach-embedded",
+    "bankInfo": "Techcombank · STK: 9909088888888 · Chủ TK: TRAN XUAN BACH",
+    "bankId": "TCB",
+    "bankAccountNo": "9909088888888",
+    "bankAccountName": "TRAN XUAN BACH",
+    "paymentCheckUrl": "https://script.google.com/macros/s/AKfycbwvLtYkTYuDmQEfvb-OpqganV1v9N6OCdduxEqA8LesWfG9CtRSpwKUcIo3R0T5jMYL/exec",
+    "orderWebhookUrl": "https://script.google.com/macros/s/AKfycbxlfBa0eDSAt1Vu4a91EcGffsxHP0TaB0ESG6hCGQgRIBUsYIr6Uq-y9bcDn5_0fdA/exec",
+    "telegramBotToken": "9191769650:AAE5DftTFGtz7HGoZznGS_dz5Ov50i-7kDo",
+    "telegramChatId": "8516660009",
+    "telegramLastUpdateId": 837864788,
+    "telegramAutoSync": true,
+    "buyerEmailEnabled": true,
+    "buyerEmailSenderName": "TeeBi & Robot — TBX Electrics",
+    "buyerEmailReplyTo": "tranbach9805@gmail.com",
+    "buyerEmailFooterNote": "Cần hỗ trợ sơ đồ đấu nối, tập lệnh điều khiển hoặc bảo hành kỹ thuật, vui lòng nhắn trực tiếp Zalo 0789044703.",
+    "footerAbout": {
+      "vi": "Chuyên cung cấp bo mạch điều khiển STM32 , driver động cơ BLDC/Servo công suất, phụ kiện robot và nhận thiết kế mạch theo yêu cầu.",
+      "en": "Supplying pre-flashed STM32 robot controllers, BLDC/Servo motor drivers, Mecanum robotics parts, and custom PCB engineering."
+    },
+    "footerPolicyTitle": {
+      "vi": "Chính sách Giao hàng & Bảo hành",
+      "en": "Shipping & Warranty Policy"
+    },
+    "footerPolicyItems": [
+      {
+        "vi": "Test tải & đo kiểm 100% bo mạch trước khi đóng gói giao khách.",
+        "en": "100% functional & load testing before packaging."
+      },
+      {
+        "vi": "Giao hàng COD toàn quốc — cho phép kiểm tra hàng trước khi thanh toán.",
+        "en": "Nationwide COD delivery with package inspection."
+      },
+      {
+        "vi": "Đóng gói kèm sơ đồ đấu nối & tài liệu tập lệnh, hỗ trợ kỹ thuật 1-1 qua Zalo.",
+        "en": "Supplied with wiring manual & command docs + 1-1 Zalo support."
+      }
+    ],
+    "experienceYears": "3+ năm thực hành mạch & điều khiển",
+    "summary": {
+      "vi": "Tôi làm chuyên sâu về mạch điều khiển động cơ (DC Servo Encoder, BLDC công suất) và bộ điều khiển trung tâm cho robot di động dùng STM32H743 / STM32F4. Thế mạnh nằm ở việc hiểu đồng thời cả phần cứng công suất lẫn phần mềm điều khiển thời gian thực: tự xử lý được nhiễu cầu H, trôi góc cảm biến, cân chỉnh Fuzzy PID thích nghi theo tải và đóng gói sản phẩm kèm tài liệu hướng dẫn đấu nối dễ dùng cho người vận hành.",
+      "en": "Hardware and firmware engineer focused on closed-loop motor drivers (DC Servo, high-power BLDC) and STM32H743/F4 mobile robot controllers. Bridges power electronics debugging (H-bridge EMI, hall commutation) with deterministic closed-loop motion control, delivering locked production boards and clear integration guides."
+    },
+    "specsSummary": [
+      {
+        "key": {
+          "vi": "Nền tảng phần cứng",
+          "en": "Hardware Base"
+        },
+        "value": "STM32H743 / F4 / F1"
+      },
+      {
+        "key": {
+          "vi": "Công nghệ điều khiển",
+          "en": "Control Core"
+        },
+        "value": "Fuzzy PID / Servo PID / BLDC"
+      },
+      {
+        "key": {
+          "vi": "Chuẩn giao tiếp ngoài",
+          "en": "External Bus"
+        },
+        "value": "FDCAN / UART / RS485 / BLE"
+      },
+      {
+        "key": {
+          "vi": "Hình thức bàn giao",
+          "en": "Delivery"
+        },
+        "value": "Mạch nạp sẵn FW + User Guide"
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "vi": "Chuyên ngành Kỹ thuật Điều khiển & Tự động hóa / Điện - Điện tử",
+          "en": "Control Engineering, Automation & Embedded Electronics"
+        },
+        "degree": {
+          "vi": "Hướng nghiên cứu: Robot tự hành & Driver công suất",
+          "en": "Focus: Mobile Robotics & Motor Power Drivers"
+        },
+        "period": "2022 – 2026",
+        "highlights": {
+          "vi": "Trực tiếp thiết kế, chạy thử nghiệm trên cơ khí thật bộ điều khiển STM32H743 và loạt mạch driver PIDSM v2.2 / PID_BLDC.",
+          "en": "Designed and bench-tested STM32H743 master controllers alongside PIDSM v2.2 and PID_BLDC motor driver series."
+        }
+      }
+    ],
+    "toolsAndBench": [
+      {
+        "vi": "Lập trình & Biên dịch nhúng: Keil MDK-ARM, STM32CubeIDE, STM32CubeMX",
+        "en": "Embedded Toolchains: Keil MDK-ARM, STM32CubeIDE, STM32CubeMX"
+      },
+      {
+        "vi": "Thiết kế phần cứng: Altium Designer / KiCad (Mạch 2–4 lớp, đường dòng lớn, tách mass)",
+        "en": "PCB CAD: Altium Designer / KiCad (2–4 layer mixed-signal & power routing)"
+      },
+      {
+        "vi": "Đo kiểm trên bàn lab: Oscilloscope soi PWM/nhiễu nguồn, Logic Analyzer bắt gói UART/CAN",
+        "en": "Lab Equipment: Oscilloscope (PWM/ripple), Logic Analyzer (CAN/UART decode)"
+      }
+    ]
+  },
+  "products": [
+    {
+      "id": "stm32h743-robot-controller",
+      "code": "H743ZIT6",
+      "revision": "REV 3.0",
+      "originType": "self-made",
+      "category": "robot-controller",
+      "categoryLabel": {
+        "vi": "Bo Điều khiển Robot",
+        "en": "Robot Master"
+      },
+      "status": {
+        "vi": "Tốt",
+        "en": "Pre-Flashed Locked MCU"
+      },
+      "supplyForm": {
+        "vi": "Cung cấp bo mạch hoàn chỉnh + Hướng dẫn đấu nối & tập lệnh cơ bản ",
+        "en": "Turnkey Flashed Board + User Manual"
+      },
+      "price": 1800000,
+      "costPrice": 800000,
+      "stock": 3,
+      "minStockAlert": 2,
+      "unit": "Mạch",
+      "showTechnicalGuide": true,
+      "name": {
+        "vi": "Bo Điều khiển Trung tâm Robot Mecanum STM32H743",
+        "en": "STM32H743 Mecanum Autonomous Robot Controller"
+      },
+      "subtitle": {
+        "vi": "Điều khiển tối đa 50 động cơ  qua uart-can bus · 3 cổng Laser  input 0v-10v + IMU · Màn hình HMI + Tay cầm không dây",
+        "en": "7-Axis Motor Bus · 3x Laser + IMU Inputs · HMI Port + Wireless Gamepad"
+      },
+      "description": {
+        "vi": "Bộ điều khiển trung tâm cho robot ROBOCON, AGV\n+ 8 cổng timer encoder\n+8 cổng uart\n+6 cổng laser 0-10v\n+3 cổng ADC 3V3\n+ 1 cổng I2C\n+1 cổng Can bus\n+1 cổng spi\n+ 16 input\n+16 output\n+17 chân io tự do\n+ 4 cổng control PWM\n",
+        "en": "Turnkey master controller for 4-wheel Mecanum mobile robots with lift and gripper mechanisms. Simply wire power, Laser sensors, IMU, and motor bus cables per pinout, then operate via wireless gamepad or send target commands from HMI/host."
+      },
+      "engineeringNotes": {
+        "vi": [
+          "Bo mạch xuất xưởng đã  test mọi chức năng, hỗ trợ chạy ngay ",
+          "Cho phép người dùng tinh chỉnh trực tiếp chức năng của các chân trên phần mềm vi điều khiển."
+        ],
+        "en": [
+          "Ships pre-flashed with locked production firmware supporting 3 ready-to-use modes: Laser Auto-Positioning, Semi-Auto Stepper, and Manual Gamepad.",
+          "Simultaneously commands 4 Mecanum drive wheels (DC1–DC4), 1 gripper channel (DC5), and 2 lift axes (DC6–DC7).",
+          "Smooth ramp profiling prevents wheel slip under heavy payloads during start/stop maneuvers.",
+          "Target Laser distances (mm) and heading angles can be adjusted directly via HMI without reflashing firmware."
+        ]
+      },
+      "techStack": [
+        "24V -> 5V/3.3V",
+        "7 Motor Channels",
+        "FDCAN / UART",
+        "Laser 0-5V",
+        "IMU HWT901B",
+        "HMI + Gamepad"
+      ],
+      "specs": [
+        {
+          "label": {
+            "vi": "Nguồn cấp vào",
+            "en": "Power Input"
+          },
+          "value": "12V – 24V DC (Tích hợp hạ áp bảo vệ ngược cực)"
+        },
+        {
+          "label": {
+            "vi": "Ngõ ra điều khiển motor",
+            "en": "Motor Bus Out"
+          },
+          "value": "Tối đa 30 driver qua  FDCAN/UART2"
+        },
+        {
+          "label": {
+            "vi": "Cổng cảm biến đầu vào",
+            "en": "Sensor Ports"
+          },
+          "value": "6x Laser Analog 0V-10V, IMU, HMI,..."
+        },
+        {
+          "label": {
+            "vi": "Giao diện vận hành",
+            "en": "Operator UI"
+          },
+          "value": "Cổng màn hình HMI UART + Cổng tay cầm PS2 / BLE"
+        },
+        {
+          "label": {
+            "vi": "Chế độ hoạt động",
+            "en": "Run Modes"
+          },
+          "value": ""
+        },
+        {
+          "label": {
+            "vi": "Bảo mật Firmware",
+            "en": "Firmware Policy"
+          },
+          "value": "Shop cung cấp firmware mẫu và file ra chân cho board"
+        }
+      ],
+      "architectureDiagram": "┌───────────────────────── SƠ ĐỒ ĐẤU NỐI NGOÀI ─────────────────────────┐\n│ [Nguồn 24V] ──► J_PWR (+/-)                                           │\n│ [3x Laser]  ──► J_LZR (Front / Left / Right + 5V/GND)                 │\n│ [IMU 9-Trục]──► J_IMU (TX/RX 115200bps)                               │\n│ [Màn HMI]   ──► J_HMI (USART2 TX/RX) ◄──► Cài đặt điểm & Chế độ chạy  │\n│ [Tay cầm]   ──► J_PAD (PS2 / BLE Receiver)                            │\n│ [Bus Motor] ──► J_CAN / J_DRV ──► Driver DC1..DC4 (Bánh) + DC5..7     │\n└───────────────────────────────────────────────────────────────────────┘",
+      "codeSnippetTitle": "Hướng dẫn Khởi động nhanh & Ví dụ Gửi lệnh từ HMI / Máy tính",
+      "codeSnippet": "# QUY TRÌNH ĐẤU NỐI & VẬN HÀNH NHANH (H743ZIT6R1)\n1. Kiểm tra nguồn 24V đúng cực (+/-) trước khi cắm giắc J_PWR.\n2. Nối dây Bus điều khiển từ cổng J_DRV tới các Driver (ID 1..7).\n3. Cấp nguồn -> Đèn LED_RUN nháy đều (1Hz) báo hệ thống sẵn sàng.\n\n# VÍ DỤ GÓI LỆNH ĐIỀU KHIỂN TỪ HMI / HOST QUA UART (115200 bps, 8N1)\n- Chạy tới tọa độ Laser (Trước=450mm, Trái=300mm, Góc=0°):\n  TX -> $LOC,450,300,0*CS\r\n\n\n- Chạy vận tốc trực tiếp (Vx=60%, Vy=0%, Quay=0%):\n  TX -> $VEL,60,0,0*CS\r\n\n\n- Dừng khẩn cấp toàn bộ trục:\n  TX -> $STOP*CS\r\n",
+      "visualType": "h743-robot",
+      "imageUrl": "./uploads/1794907900679-edited-1794907900668.jpg",
+      "backImageUrl": "",
+      "galleryUrls": [
+        "./uploads/1794907922152-edited-1794907922140.jpg"
+      ]
+    },
+    {
+      "id": "smart-servo-pid-driver",
+      "code": "PIDSM-V2.2",
+      "revision": "REV 2.2",
+      "originType": "self-made",
+      "category": "motor-driver",
+      "categoryLabel": {
+        "vi": "Driver Động cơ",
+        "en": "Motor Driver"
+      },
+      "status": {
+        "vi": "Hàng có sẵn · Đấu dây là chạy",
+        "en": "In Stock · Plug & Run"
+      },
+      "supplyForm": {
+        "vi": "Mạch Driver hoàn chỉnh (Đã nạp FW) + Tài liệu giao thức",
+        "en": "Pre-Flashed Driver + Protocol Sheet"
+      },
+      "price": 450000,
+      "costPrice": 180000,
+      "stock": 15,
+      "minStockAlert": 4,
+      "unit": "Mạch",
+      "showTechnicalGuide": true,
+      "name": {
+        "vi": "Mạch Driver Động cơ DC Servo Encoder (PIDSM v2.2)",
+        "en": "Closed-Loop DC Servo PID Driver (PIDSM v2.2)"
+      },
+      "subtitle": {
+        "vi": "Cắm DC Motor + Encoder A/B · Đặt ID nối chuỗi CAN/UART · Tự giữ vị trí",
+        "en": "DC Motor + A/B Encoder Terminals · Selectable Node ID · Closed-Loop Hold"
+      },
+      "description": {
+        "vi": "Bộ driver công suất điều khiển động cơ DC có gắn Encoder. Khách hàng chỉ cần nối 2 dây nguồn, 2 dây động cơ, 4 dây Encoder (5V, GND, A, B) và chọn ID mạch. Gửi tốc độ qua UART/CAN là động cơ tự chạy mượt và giữ cứng vị trí. \nMạch hỗ trợ các chức năng:\n+ H Bridge\n+ PID Speed\n+ PID Vị trí",
+        "en": "Ready-to-use closed-loop DC Servo power driver. Simply connect supply power, motor leads, 4-wire quadrature encoder (5V, GND, A, B), and set the Node ID. Send target position or speed over UART/CAN and the drive handles closed-loop tracking."
+      },
+      "engineeringNotes": {
+        "vi": [
+          "Tích hợp sẵn bộ lọc chống nhiễu đầu vào Encoder ",
+          "Hỗ trợ mắc nối tiếp nhiều Driver trên cùng 1 đường dây truyền thông từ Arduino, Raspberry Pi,JetSon hoặc STM32.",
+          "Cho phép người dùng chỉnh lại 3 hệ số Kp, Ki, Kd bằng lệnh truyền thông khi thay đổi tải trọng cơ khí khác nhau."
+        ],
+        "en": [
+          "Built-in encoder input noise filtering and automatic H-bridge fault cut-off on mechanical jam.",
+          "Daisy-chain multiple drivers on a single bus controlled from PLC, Arduino, Raspberry Pi, or STM32.",
+          "Users can adjust Kp/Ki/Kd gains over serial/CAN commands for different mechanical inertia without touching MCU firmware."
+        ]
+      },
+      "techStack": [
+        "12V - 36V DC",
+        "Encoder A/B 5V",
+        "UART / CAN ID",
+        "Auto Hold",
+        "Stall Lock"
+      ],
+      "specs": [
+        {
+          "label": {
+            "vi": "Điện áp cấp công suất",
+            "en": "Power Supply"
+          },
+          "value": "24V DC"
+        },
+        {
+          "label": {
+            "vi": "Đầu vào cảm biến",
+            "en": "Encoder Port"
+          },
+          "value": "5V / GND / Phase A / Phase B "
+        },
+        {
+          "label": {
+            "vi": "Chuẩn nhận lệnh",
+            "en": "Command Bus"
+          },
+          "value": "UART  (115200 bps) hoặc CAN Bus (Chọn Node ID)"
+        },
+        {
+          "label": {
+            "vi": "Chế độ điều khiển",
+            "en": "User Modes"
+          },
+          "value": "Chạy vị trí (Xung) / Chạy tốc độ (RPM) / Thả trôi"
+        }
+      ],
+      "architectureDiagram": "┌─────────── SƠ ĐỒ ĐẤU CHÂN MẠCH PIDSM V2.2 ───────────┐\n│  [1] PWR_IN (+24V / GND)  ──► Nguồn tổ ong / Pin 24V │\n│  [2] MOTOR (M+ / M-)      ──► Ra 2 dây động cơ DC    │\n│  [3] ENC (5V/GND/A/B)     ──► Về Encoder sau trục    │\n│  [4] COMM (TX/RX hoặc CAN)──► Nối về Bộ điều khiển   │\n└──────────────────────────────────────────────────────┘",
+      "codeSnippetTitle": "Ví dụ Code Arduino / STM32 / Python gửi lệnh tới Driver PIDSM v2.2",
+      "codeSnippet": "// Ví dụ phía Host (Arduino / Vi điều khiển của bạn) gửi lệnh qua Serial tới PIDSM\n// Cấu trúc khung: [0xAA] [ID_Mạch] [Chế_độ] [Giá_trị_H] [Giá_trị_L] [Checksum]\n\nvoid PIDSM_SetSpeed(uint8_t node_id, int16_t speed_pwm) {\n    uint8_t frame[6];\n    frame[0] = 0xAA;                     // Byte bắt đầu\n    frame[1] = node_id;                  // Địa chỉ mạch (1..16)\n    frame[2] = (speed_pwm >= 0) ? 1 : 0; // 1: Quay thuận, 0: Quay nghịch\n    uint16_t mag = abs(speed_pwm);\n    frame[3] = (mag >> 8) & 0xFF;\n    frame[4] = mag & 0xFF;\n    frame[5] = frame[1] ^ frame[2] ^ frame[3] ^ frame[4];\n    Serial1.write(frame, 6);\n}",
+      "visualType": "servo-pid",
+      "imageUrl": "./uploads/1794907765139-edited-1794907765129.jpg",
+      "backImageUrl": "",
+      "galleryUrls": [
+        "./uploads/1794907739612-edited-1794907739602.jpg"
+      ]
+    },
+    {
+      "id": "imu-industrial-9axis",
+      "code": "IMU-STMV2",
+      "revision": "REV 2.0",
+      "originType": "self-made",
+      "category": "sensor-hmi",
+      "categoryLabel": {
+        "vi": "Cảm biến & Xử lý góc",
+        "en": "IMU Module"
+      },
+      "status": {
+        "vi": "Xuất góc liên tục · Độ trễ thấp",
+        "en": "Clean Continuous Output"
+      },
+      "supplyForm": {
+        "vi": "Module đã nạp sẵn FW lọc góc + Tài liệu đọc gói tin",
+        "en": "Pre-Flashed Module + Packet Guide"
+      },
+      "price": 390000,
+      "costPrice": 130000,
+      "stock": 7,
+      "minStockAlert": 3,
+      "unit": "Bộ",
+      "showTechnicalGuide": true,
+      "name": {
+        "vi": "Module Xử lý Cảm biến Quán tính 6 trục Chống nhảy góc (IMU_STMv2)",
+        "en": "6-Axis IMU Acquisition & Continuous-Yaw Module (IMU_STMv2)"
+      },
+      "subtitle": {
+        "vi": "Cấp 5V là xuất góc Roll/Pitch/Yaw liên tục · Không nhảy ±180° · Hỗ trợ nút Reset 0°",
+        "en": "5V Plug-and-Play · Continuous Unwrapped Yaw · Hardware Zero-Reset Pin"
+      },
+      "description": {
+        "vi": "Module trung gian giúp bạn đọc góc nghiêng và góc xoay từ cảm biến quán tính MPU , ICM một cách sạch sẽ, đã lọc rung cơ khí và xử lý sẵn lỗi nhảy cóc qua ngưỡng ±180°. Thiết bị chính của bạn chỉ việc đọc giá trị góc float gửi ra mỗi 10ms. Khi cấp nguồn để cảm biến nằm im tại vị trí 3s để tự động calip lại cảm biến",
+        "en": "Dedicated sensor-conditioning module that filters chassis vibration and eliminates ±180° yaw wrap glitches from HWT901B/MPU sensors. Your main controller simply reads clean unwrapped angle packets every 10ms without wasting CPU cycles."
+      },
+      "engineeringNotes": {
+        "vi": [
+          "Tích hợp nút nhấn phần cứng / chân kích mức thấp để đặt lại góc Yaw = 0.0° bất kỳ lúc nào khi căn chỉnh robot.",
+          "Đầu ra chuẩn hóa sẵn thành góc liên tục (ví dụ xoay 2 vòng là +720° chứ không bị nhảy về -180°).",
+          "Có đèn LED báo trạng thái ổn định cảm biến ngay sau khi bật nguồn."
+        ],
+        "en": [
+          "Includes a physical button / logic pin to zero the Yaw heading (0.0°) before a robot run.",
+          "Outputs continuous unwrapped angles (e.g., 2 full turns = +720.0°) with zero ±180° discontinuity.",
+          "Onboard status LED confirms sensor calibration lock after power-up."
+        ]
+      },
+      "techStack": [
+        "5V Input",
+        "UART 115200",
+        "CAN Output",
+        "Zero-Reset Pin",
+        "100Hz Clean Data"
+      ],
+      "specs": [
+        {
+          "label": {
+            "vi": "Nguồn cấp",
+            "en": "Supply"
+          },
+          "value": "5V DC (Giắc cắm 4 chân chuẩn công nghiệp)"
+        },
+        {
+          "label": {
+            "vi": "Tốc độ xuất dữ liệu",
+            "en": "Output Rate"
+          },
+          "value": "100 Hz (Mỗi 10ms gửi 1 gói góc đã lọc)"
+        },
+        {
+          "label": {
+            "vi": "Định dạng góc Yaw",
+            "en": "Yaw Format"
+          },
+          "value": "Góc liên tục (-32768° đến +32768°), sai số < 0.2°"
+        },
+        {
+          "label": {
+            "vi": "Chân tiện ích",
+            "en": "Utility Pin"
+          },
+          "value": "Chân ZERO (Kéo GND 100ms để reset góc hướng về 0°)"
+        }
+      ],
+      "architectureDiagram": "[Nguồn 5V] ──► [Module IMU_STMv2] ──(UART)──► [PLC / STM32 / Arduino]\n                      ▲\n               [Nút ZERO về 0°]",
+      "codeSnippetTitle": "Hướng dẫn Đọc góc từ Module IMU_STMv2 trên Arduino / STM32",
+      "codeSnippet": "// Định dạng gói dữ liệu Module IMU_STMv2 tự động gửi ra UART (115200 bps):\n// Gói ASCII dễ đọc: \"$IMU,<Roll>,<Pitch>,<Continuous_Yaw>*CS\r\n\"\n\n// Ví dụ phía thiết bị nhận (Python / Arduino / PC):\n// Nhận chuỗi: \"$IMU,0.12,-0.45,368.50*4A\"\n// -> Roll = 0.12°, Pitch = -0.45°, Yaw = 368.50° (đã quay hơn 1 vòng mượt mà)\n\n// Lệnh gửi xuống module từ thiết bị chính:\n// \"$RST_YAW\r\n\"  -> Đặt lại góc Yaw hiện tại về 0.00°",
+      "visualType": "imu-sensor",
+      "imageUrl": "./uploads/1794908291742-edited-1794908291735.jpg",
+      "backImageUrl": "",
+      "galleryUrls": []
+    },
+    {
+      "id": "wireless-gamepad-ble",
+      "code": "GAMEPAD-BLE",
+      "revision": "REV 1.2",
+      "originType": "self-made",
+      "category": "wireless",
+      "categoryLabel": {
+        "vi": "Điều khiển Không dây",
+        "en": "Wireless Control"
+      },
+      "status": {
+        "vi": "Cắm là lái · Tự dừng khi mất sóng",
+        "en": "Plug & Drive · Fail-Safe"
+      },
+      "supplyForm": {
+        "vi": "Tay cầm + Mạch thu nạp sẵn FW + Bảng ánh xạ phím",
+        "en": "Handheld + Receiver + Keymap Guide"
+      },
+      "price": 620000,
+      "costPrice": 360000,
+      "stock": 10,
+      "minStockAlert": 3,
+      "unit": "Bộ",
+      "showTechnicalGuide": true,
+      "name": {
+        "vi": "Bộ Thu Phát Tay cầm Điều khiển Robot Không dây (GamepadBLE)",
+        "en": "Industrial Wireless Gamepad & BLE Receiver (GamepadBLE)"
+      },
+      "subtitle": {
+        "vi": "Tự động ghép nối BLE/PS2 · Xuất tọa độ Joystick sạch · An toàn tự dừng khi mất kết nối",
+        "en": "Auto-Pairing BLE/PS2 · Filtered Stick Output · Auto-Zero on Signal Loss"
+      },
+      "description": {
+        "vi": "Giải pháp tay cầm không dây hoàn chỉnh dùng để lái xe tự hành, điều khiển tay máy hoặc test cơ khí trong nhà xưởng. Mạch thu đã xử lý sẵn lọc rung cần analog và tự xuất giá trị về 0 nếu tay cầm đi quá xa hoặc hết pin.",
+        "en": "Complete wireless remote kit for workshop testing, manual AGV driving, and robotic arm jogging. The receiver filters stick deadzones automatically and outputs zero velocity commands within 150ms if radio signal drops."
+      },
+      "engineeringNotes": {
+        "vi": [
+          "Tự động kết nối lại ngay khi bật nguồn tay cầm mà không cần thao tác cài đặt phức tạp.",
+          "Đèn LED trên mạch thu báo rõ trạng thái: Nháy chậm = Chờ kết nối, Sáng đứng = Đã kết nối ổn định.",
+          "Nếu mất sóng quá 150ms, mạch thu tự động phát tín hiệu dừng (0, 0, 0) bảo vệ an toàn cho người và máy."
+        ],
+        "en": [
+          "Auto-pairs immediately upon powering up the handheld controller.",
+          "Onboard status LED indicates link state: slow blink = searching, solid = active link.",
+          "Automatic 150ms loss-of-signal failsafe forces all speed outputs to zero to protect operators."
+        ]
+      },
+      "techStack": [
+        "5V Supply",
+        "BLE / PS2 RF",
+        "UART 115200",
+        "150ms Fail-Safe",
+        "Auto Pair"
+      ],
+      "specs": [
+        {
+          "label": {
+            "vi": "Khoảng cách điều khiển",
+            "en": "Range"
+          },
+          "value": "15m – 30m trong môi trường nhà xưởng"
+        },
+        {
+          "label": {
+            "vi": "Tần số cập nhật",
+            "en": "Packet Rate"
+          },
+          "value": "50 Hz – 100 Hz (Độ trễ < 15ms)"
+        },
+        {
+          "label": {
+            "vi": "An toàn mất sóng",
+            "en": "Safety Timeout"
+          },
+          "value": "Tự trả vận tốc về 0 sau 150ms mất tín hiệu"
+        },
+        {
+          "label": {
+            "vi": "Ngõ ra mạch thu",
+            "en": "Receiver Port"
+          },
+          "value": "UART TTL 4 chân (5V, GND, TX, RX)"
+        }
+      ],
+      "architectureDiagram": "[Tay cầm BLE/PS2] ~~~(Sóng 2.4GHz)~~~► [Mạch thu GamepadBLE] ──(UART)──► [Bo Robot / PLC]\n                                                │\n                                      [Đèn báo LINK / Mất sóng]",
+      "codeSnippetTitle": "Bảng Giải mã Gói tin từ Mạch thu GamepadBLE gửi ra UART",
+      "codeSnippet": "// Mỗi 20ms, Mạch thu gửi 1 gói 8-byte ra chân TX (115200 bps):\n// [0x55] [LX] [LY] [RX] [RY] [BTN_L] [BTN_H] [Checksum]\n//  - LX, LY, RX, RY: Giá trị từ -100 .. +100 (Đã lọc deadzone ở giữa = 0)\n//  - BTN_L, BTN_H  : Trạng thái 16 nút nhấn (bit 1 = đang nhấn)\n//  - Khi mất sóng  : Mạch tự gửi liên tục LX=0, LY=0, RX=0, RY=0, BTN=0\n\n// Ví dụ đọc bằng code người dùng:\nif (rx_buf[0] == 0x55 && check_crc(rx_buf)) {\n    int8_t move_x = (int8_t)rx_buf[1]; // Tiến / Lùi (-100..100)\n    int8_t move_y = (int8_t)rx_buf[2]; // Trượt ngang (-100..100)\n}",
+      "visualType": "gamepad-ble"
+    },
+    {
+      "id": "multi-sensor-io-encoder",
+      "code": "INPUT-F4-IO",
+      "revision": "REV 1.1",
+      "originType": "self-made",
+      "category": "sensor-hmi",
+      "categoryLabel": {
+        "vi": "Board Thu thập I/O",
+        "en": "DAQ & I/O Board"
+      },
+      "status": {
+        "vi": "Cách ly quang 24V · Chống nhiễu",
+        "en": "24V Opto-Isolated"
+      },
+      "supplyForm": {
+        "vi": "Board I/O nạp sẵn FW + Tài liệu đọc kênh CAN/UART",
+        "en": "Pre-Flashed I/O Board + Register Map"
+      },
+      "price": 420000,
+      "costPrice": 240000,
+      "stock": 9,
+      "minStockAlert": 3,
+      "unit": "Mạch",
+      "showTechnicalGuide": true,
+      "name": {
+        "vi": "Board Đọc Cảm biến Laser & Công tắc hành trình Cách ly 24V (INPUT_CODE)",
+        "en": "Isolated 24V Limit-Switch & Laser Sensor Hub (INPUT_CODE)"
+      },
+      "subtitle": {
+        "vi": "Gom 4-8 cảm biến Laser + 16 ngõ vào 24V Opto về 1 đường dây CAN / RS485",
+        "en": "Aggregates 4-8 Analog Lasers + 16x 24V Opto Inputs onto 1 CAN/RS485 Bus"
+      },
+      "description": {
+        "vi": "Giúp giảm dây dẫn lằng nhằng trên thân robot và bảo vệ bộ điều khiển chính khỏi nhiễu điện áp 24V. Cắm toàn bộ cảm biến tiệm cận, công tắc hành trình và cảm biến khoảng cách Laser vào board này, sau đó chỉ kéo 2 dây truyền thông CAN/RS485 về máy tính hoặc bo chủ.",
+        "en": "Reduces wiring clutter across robot frames and isolates the main controller from 24V inductive spikes. Plug all proximity switches, limit sensors, and analog Lasers into this hub and run just one 2-wire CAN/RS485 bus back to your host."
+      },
+      "engineeringNotes": {
+        "vi": [
+          "Tất cả ngõ vào công tắc hành trình hỗ trợ nguồn cảm biến công nghiệp 12V–24V (NPN/PNP) có LED báo trạng thái ngay trên từng chân.",
+          "Tín hiệu khoảng cách Laser được làm mượt sẵn trước khi gửi về trung tâm để không bị nhảy số do rung động.",
+          "Đấu nối bằng Domino bắt vít chắc chắn, dễ thay thế cảm biến ngoài hiện trường."
+        ],
+        "en": [
+          "All digital limit inputs accept 12V–24V industrial sensors with per-channel indicator LEDs.",
+          "Laser analog readings are pre-smoothed onboard to eliminate mechanical jitter before transmission.",
+          "Industrial screw terminals simplify field sensor swaps and maintenance."
+        ]
+      },
+      "techStack": [
+        "12V - 24V Opto",
+        "4-8x Laser Analog",
+        "CAN / RS485 Out",
+        "LED Status/Pin",
+        "Screw Terminals"
+      ],
+      "specs": [
+        {
+          "label": {
+            "vi": "Nguồn nuôi mạch",
+            "en": "Board Power"
+          },
+          "value": "12V – 24V DC"
+        },
+        {
+          "label": {
+            "vi": "Kênh Analog Laser",
+            "en": "Laser Channels"
+          },
+          "value": "4 – 8 kênh 0-5V (Xuất sẵn giá trị mm)"
+        },
+        {
+          "label": {
+            "vi": "Ngõ vào Số cách ly",
+            "en": "Digital Inputs"
+          },
+          "value": "8 – 16 kênh Opto 24V (Có LED báo từng kênh)"
+        },
+        {
+          "label": {
+            "vi": "Ngõ ra truyền thông",
+            "en": "Host Output"
+          },
+          "value": "CAN Bus / UART RS485 (Polling hoặc Auto-Send)"
+        }
+      ],
+      "architectureDiagram": "[4-8x Cảm biến Laser] ──► [Cổng AI 1..8]  ──┐\n[8-16x Công tắc 24V]  ──► [Cổng Opto IN]  ──┼──► [Board INPUT-F4-IO] ──(CAN/RS485)──► [Host]",
+      "codeSnippetTitle": "Ví dụ Hỏi trạng thái Cảm biến & Công tắc qua RS485 / UART",
+      "codeSnippet": "# LỆNH HỎI DỮ LIỆU TỪ HOST (115200 bps):\nTX -> \"?IO,ALL\r\n\"\n\n# PHẢN HỒI TỪ BOARD INPUT-F4-IO:\nRX <- \"!IO,D:0x00A4,L1:425,L2:310,L3:890,L4:120\r\n\"\n// Giải thích:\n// - D:0x00A4 : Bitmask 16 ngõ vào số (kênh nào có vật cản = 1)\n// - L1..L4   : Khoảng cách đọc từ 4 cảm biến Laser (đơn vị: mm)",
+      "visualType": "io-encoder"
+    },
+    {
+      "id": "mecanum-wheel-set-152",
+      "code": "MECANUM-AL152",
+      "revision": "Hàng nhập",
+      "originType": "commercial",
+      "category": "mechanics-parts",
+      "categoryLabel": {
+        "vi": "Động cơ & Cơ khí",
+        "en": "Mechanics & Motors"
+      },
+      "status": {
+        "vi": "Hàng có sẵn tại kho",
+        "en": "In Stock"
+      },
+      "supplyForm": {
+        "vi": "Bộ 4 bánh (2 Trái + 2 Phải) kèm Hub nối trục",
+        "en": "Set of 4 Wheels (2L + 2R) + Hubs"
+      },
+      "price": 2850000,
+      "costPrice": 2150000,
+      "stock": 6,
+      "minStockAlert": 2,
+      "unit": "Bộ 4 bánh",
+      "showTechnicalGuide": false,
+      "name": {
+        "vi": "Bộ 4 Bánh xe Mecanum Hợp kim Nhôm Đúc 152mm Tải nặng",
+        "en": "152mm Heavy-Duty Aluminum Mecanum Wheel Set (4 pcs)"
+      },
+      "subtitle": {
+        "vi": "Chịu tải 120kg / bộ · Con lăn Polyurethane bạc đạn đôi · Khớp lục giác / Keyway",
+        "en": "120kg Load Capacity · Dual-Bearing PU Rollers · CNC Aluminum Hub"
+      },
+      "description": {
+        "vi": "Bộ bánh xe đa hướng Mecanum đường kính 152mm khung nhôm đúc nguyên khối, chuyên dùng cho xe tự hành AGV và robot vận chuyển hàng tải lớn. Mỗi con lăn gắn 2 vòng bi giúp lăn êm, ít rơ lắc và chịu va đập tốt.",
+        "en": "Heavy-duty 152mm cast-aluminum Mecanum wheel set designed for mobile robots and AGVs. Each roller features dual ball bearings and wear-resistant PU sleeves for smooth omnidirectional travel."
+      },
+      "engineeringNotes": {
+        "vi": [
+          "Tương thích trực tiếp với động học 4 bánh trên bộ điều khiển H743ZIT6R1.",
+          "Độ cứng con lăn PU bám nền epoxy nhà xưởng và sàn bê tông tốt, không để lại vệt đen.",
+          "Có sẵn tùy chọn khớp nối trục động cơ (8mm, 10mm, 12mm, 14mm) theo yêu cầu."
+        ],
+        "en": [
+          "Direct mechanical match for the H743ZIT6R1 omnidirectional controller.",
+          "High-grip PU rollers run quietly on epoxy workshop floors without marking.",
+          "Optional shaft coupling hubs available (8mm, 10mm, 12mm, 14mm)."
+        ]
+      },
+      "techStack": [
+        "Đường kính 152mm",
+        "Tải 120kg",
+        "Khung nhôm",
+        "9 con lăn / bánh"
+      ],
+      "specs": [
+        {
+          "label": {
+            "vi": "Đường kính ngoài",
+            "en": "Diameter"
+          },
+          "value": "152 mm (6 inch)"
+        },
+        {
+          "label": {
+            "vi": "Tải trọng khuyến nghị",
+            "en": "Payload Rating"
+          },
+          "value": "120 kg / bộ 4 bánh"
+        },
+        {
+          "label": {
+            "vi": "Vật liệu khung & con lăn",
+            "en": "Materials"
+          },
+          "value": "Hợp kim nhôm + Con lăn PU bọc lõi bi"
+        },
+        {
+          "label": {
+            "vi": "Quy cách đóng gói",
+            "en": "Package"
+          },
+          "value": "2 bánh Trái + 2 bánh Phải"
+        }
+      ],
+      "architectureDiagram": "Gắn theo hình chữ X nhìn từ trên xuống:\n  [Bánh Trái] ──┐   ┌── [Bánh Phải]\n                │   │\n  [Bánh Phải] ──┘   └── [Bánh Trái]",
+      "codeSnippetTitle": "Lưu ý lắp đặt cơ khí khi nhận hàng",
+      "codeSnippet": "1. Lắp đúng 2 bánh L (Trái) và 2 bánh R (Phải) sao cho hướng con lăn tạo thành chữ X khi nhìn từ trên xuống.\n2. Siết chặt ốc hãm khóa trục kèm keo khóa ren nhẹ để tránh lỏng chốt khi đảo chiều liên tục.",
+      "visualType": "h743-robot"
+    },
+    {
+      "id": "dc-servo-motor-24v-enc",
+      "code": "MOTOR-24V-ENC",
+      "revision": "Hàng nhập",
+      "originType": "commercial",
+      "category": "mechanics-parts",
+      "categoryLabel": {
+        "vi": "Động cơ & Cơ khí",
+        "en": "Mechanics & Motors"
+      },
+      "status": {
+        "vi": "Hàng có sẵn tại kho",
+        "en": "In Stock"
+      },
+      "supplyForm": {
+        "vi": "Động cơ kèm giắc cắm Encoder 2 kênh A/B",
+        "en": "Motor + A/B Encoder Harness"
+      },
+      "price": 780000,
+      "costPrice": 540000,
+      "stock": 14,
+      "minStockAlert": 4,
+      "unit": "Chiếc",
+      "showTechnicalGuide": false,
+      "name": {
+        "vi": "Động cơ Giảm tốc 24V DC Mô-men cao Tích hợp Encoder",
+        "en": "24V High-Torque Geared DC Motor with Dual-Channel Encoder"
+      },
+      "subtitle": {
+        "vi": "24V DC · Hộp số kim loại · Encoder 2 kênh A/B đọc vị trí & tốc độ chính xác",
+        "en": "24V DC · All-Metal Gearbox · Integrated Dual-Channel Quadrature Encoder"
+      },
+      "description": {
+        "vi": "Động cơ giảm tốc bánh răng kim loại bền bỉ chạy nguồn 24V, tích hợp sẵn bộ mã hóa vòng quay Encoder 2 pha A/B ở đuôi trục. Cắm chạy trực tiếp với Driver PIDSM v2.2 rất ổn định cho cơ cấu nâng, băng tải hoặc bánh xe robot.",
+        "en": "Rugged 24V all-metal geared DC motor equipped with a rear A/B quadrature encoder. Pairs cleanly with the PIDSM v2.2 driver for closed-loop speed and position control."
+      },
+      "engineeringNotes": {
+        "vi": [
+          "Tặng kèm dây nối giắc 6 chân tương thích thẳng với cổng Encoder trên mạch PIDSM v2.2.",
+          "Hộp số thép tôi cứng chịu đảo chiều nhanh liên tục."
+        ],
+        "en": [
+          "Includes 6-pin encoder pigtail cable compatible with PIDSM v2.2.",
+          "Hardened steel gearbox built for frequent bidirectional reversals."
+        ]
+      },
+      "techStack": [
+        "24V DC",
+        "Hộp số kim loại",
+        "Encoder A/B 5V",
+        "Trục chữ D"
+      ],
+      "specs": [
+        {
+          "label": {
+            "vi": "Điện áp định mức",
+            "en": "Rated Voltage"
+          },
+          "value": "24V DC"
+        },
+        {
+          "label": {
+            "vi": "Tốc độ sau hộp số",
+            "en": "Output Speed"
+          },
+          "value": "150 – 300 RPM (tùy chọn tỉ số truyền)"
+        },
+        {
+          "label": {
+            "vi": "Cảm biến đuôi trục",
+            "en": "Encoder"
+          },
+          "value": "Hall / Quang 2 kênh A/B (5V)"
+        }
+      ],
+      "architectureDiagram": "[2 dây lớn M+/M-] ──► Cổng Motor Driver\n[4 dây nhỏ 5V/GND/A/B] ──► Cổng Encoder Driver",
+      "codeSnippetTitle": "Thứ tự màu dây Encoder chuẩn",
+      "codeSnippet": "- Đỏ / Đen: Nguồn nuôi Motor (24V DC)\n- Xanh dương: +5V cấp cho mạch Encoder\n- Xanh lá: GND (Mass Encoder)\n- Vàng / Trắng: Tín hiệu Xung A / B",
+      "visualType": "servo-pid"
+    },
+    {
+      "id": "laser-distance-sensor-05v",
+      "code": "LZR-IND-05V",
+      "revision": "Hàng phân phối",
+      "originType": "commercial",
+      "category": "sensor-hmi",
+      "categoryLabel": {
+        "vi": "Cảm biến & I/O",
+        "en": "Sensors & I/O"
+      },
+      "status": {
+        "vi": "Hàng có sẵn tại kho",
+        "en": "In Stock"
+      },
+      "supplyForm": {
+        "vi": "Cảm biến nguyên hộp + Dây tín hiệu 2m",
+        "en": "Boxed Sensor + 2m Cable"
+      },
+      "price": 650000,
+      "costPrice": 430000,
+      "stock": 9,
+      "minStockAlert": 3,
+      "unit": "Chiếc",
+      "showTechnicalGuide": false,
+      "name": {
+        "vi": "Cảm biến Đo khoảng cách Laser Công nghiệp Ngõ ra 0–5V",
+        "en": "Industrial Laser Distance Sensor (0–5V Analog Output)"
+      },
+      "subtitle": {
+        "vi": "Dải đo 50mm – 3000mm · Độ lặp lại cao · Ngõ ra Analog tuyến tính 0-5V",
+        "en": "50mm – 3000mm Range · Linear 0–5V Output · IP65 Enclosure"
+      },
+      "description": {
+        "vi": "Cảm biến đo khoảng cách bằng tia Laser đỏ chuyên dụng cho robot tự hành bám tường và dây chuyền tự động hóa. Ngõ ra điện áp tuyến tính 0–5V ít bị nhiễu bởi ánh sáng đèn nhà xưởng hơn so với cảm biến siêu âm.",
+        "en": "Industrial red-beam Laser distance sensor outputting linear 0–5V analog voltage. Far superior immunity to factory lighting and acoustic reflections compared to ultrasonic sensors."
+      },
+      "engineeringNotes": {
+        "vi": [
+          "Cắm trực tiếp vào cổng Laser của bo chủ H743ZIT6R1 hoặc board INPUT-F4-IO.",
+          "Vỏ bảo vệ chống bụi công nghiệp, có ốc chỉnh gá lắp dễ dàng."
+        ],
+        "en": [
+          "Plugs straight into the H743ZIT6R1 or INPUT-F4-IO analog Laser channels.",
+          "Rugged housing with mounting bracket slots."
+        ]
+      },
+      "techStack": [
+        "Nguồn 12-24V",
+        "Ngõ ra 0-5V",
+        "Dải đo 3m",
+        "Chống bụi IP65"
+      ],
+      "specs": [
+        {
+          "label": {
+            "vi": "Nguồn cấp",
+            "en": "Power"
+          },
+          "value": "12V – 24V DC"
+        },
+        {
+          "label": {
+            "vi": "Tầm đo hiệu dụng",
+            "en": "Range"
+          },
+          "value": "50 mm – 3,000 mm"
+        },
+        {
+          "label": {
+            "vi": "Tín hiệu ra",
+            "en": "Output"
+          },
+          "value": "Analog tuyến tính 0 – 5V DC"
+        }
+      ],
+      "architectureDiagram": "Dây Nâu (+12..24V) | Dây Xanh (GND) | Dây Đen (Analog Out 0-5V)",
+      "codeSnippetTitle": "Quy đổi điện áp ra khoảng cách mm",
+      "codeSnippet": "Khoảng cách (mm) = 50 + (Điện áp đọc được / 5.0) * 2950",
+      "visualType": "io-encoder"
+    },
+    {
+      "id": "kit-agv-mecanum-4wd",
+      "code": "KIT-AGV-MEC4",
+      "revision": "Đồ án / NCKH",
+      "originType": "project-kit",
+      "category": "project-research",
+      "categoryLabel": {
+        "vi": "Đồ án & Mô hình NCKH",
+        "en": "Project & Research Kit"
+      },
+      "status": {
+        "vi": "Nhận lắp ráp theo cấu hình · Có sẵn kit mẫu",
+        "en": "Built to Order · Sample Kit Ready"
+      },
+      "supplyForm": {
+        "vi": "Khung xe + 4 Động cơ Encoder + Mạch H743 + Tài liệu nguyên lý & Bảng tập lệnh",
+        "en": "Full Chassis + Controller + Test Docs"
+      },
+      "price": 22700000,
+      "costPrice": 15000000,
+      "stock": 1,
+      "minStockAlert": 1,
+      "unit": "Bộ",
+      "showTechnicalGuide": true,
+      "name": {
+        "vi": "Bộ Mô hình Xe Robot Tự Hành AGV 4 Bánh Mecanum Bám Điểm Lidar & IMU (Full Kit Đồ Án / NCKH)",
+        "en": "4WD Omnidirectional AGV Robot Kit with Lidar & IMU (Thesis / R&D Edition)"
+      },
+      "subtitle": {
+        "vi": "Chạy sẵn 2 chế độ Auto / Tay cầm · Xuất số liệu vị trí & vận tốc làm báo cáo NCKH",
+        "en": "Pre-configured Auto / Semi-Auto / Manual Modes · Real-Time Telemetry Logging"
+      },
+      "description": {
+        "vi": "Mô hình hoàn chỉnh phục vụ đồ án tốt nghiệp Tự động hóa / Cơ điện tử và đề tài NCKH về điều khiển quỹ đạo xe đa hướng. Khung INOX 304 lắp sẵn 4 động cơ Encoder, 4 bánh Mecanum, bo chủ STM32H743 kèm cảm biến IMU + LIDAR A1M8,4  Driver PIDSM, sẵn sàng chạy thử và xuất bảng dữ liệu sai số cho chương thực nghiệm.",
+        "en": "Complete bench-ready AGV platform for automation theses and omnidirectional control research. Features aluminum chassis, 4 encoder motors, Mecanum wheels, STM32H743 controller, and IMU/Laser sensors ready for telemetry logging."
+      },
+      "engineeringNotes": {
+        "vi": [
+          "Chạy ổn định ngay khi cấp nguồn 24V, có nút dừng khẩn và màn hình hiển thị thông số trực tiếp.",
+          "Cho phép đọc log sai số vị trí X/Y/Góc Yaw và tốc độ 4 bánh qua UART về máy tính để vẽ đồ thị.",
+          "Kèm sơ đồ khối hệ thống, bảng nối dây chi tiết và hướng dẫn giải thích nguyên lý khi bảo vệ."
+        ],
+        "en": [
+          "Operates out-of-the-box on 24V DC with emergency stop and onboard telemetry display.",
+          "Streams X/Y/Yaw tracking errors and 4-wheel RPM telemetry over UART for MATLAB/Python plotting.",
+          "Includes full block diagram, wiring schematic, and defense preparation guide."
+        ]
+      },
+      "techStack": [
+        "Full Khung AGV",
+        "STM32H743 + HMI",
+        "IMU + Laser",
+        "Log đồ thị PC"
+      ],
+      "specs": [
+        {
+          "label": {
+            "vi": "Kích thước khung xe",
+            "en": "Chassis Footprint"
+          },
+          "value": "420 × 340 mm (Nhôm định hình + Tấm phíp)"
+        },
+        {
+          "label": {
+            "vi": "Cơ cấu truyền động",
+            "en": "Drivetrain"
+          },
+          "value": "4x Động cơ Encoder 24V + 4 Bánh Mecanum"
+        },
+        {
+          "label": {
+            "vi": "Thu thập dữ liệu NCKH",
+            "en": "Research Logging"
+          },
+          "value": "Xuất CSV tọa độ & vận tốc 50Hz qua UART/USB"
+        },
+        {
+          "label": {
+            "vi": "Tài liệu bàn giao",
+            "en": "Handover Docs"
+          },
+          "value": "Sơ đồ nguyên lý khối + Bảng tập lệnh + Hướng dẫn test"
+        }
+      ],
+      "architectureDiagram": "[Tay cầm / PC MATLAB] ──(UART/BLE)──► [Bo chủ H743ZIT6R1]\n                                          ├──► 4x Bánh Mecanum (PIDSM)\n                                          └──◄ [IMU 9 trục + 3x Laser]",
+      "codeSnippetTitle": "Lệnh thu thập bảng số liệu thực nghiệm về PC / MATLAB",
+      "codeSnippet": "// Bật chế độ xuất dữ liệu thí nghiệm 50Hz:\n$LOG,ON\r\n\n// Dữ liệu nhận được để vẽ đồ thị trong báo cáo:\n// \"DATA,t_ms,X_set,X_real,Y_set,Y_real,Yaw_deg,RPM1,RPM2,RPM3,RPM4\"",
+      "visualType": "h743-robot"
+    },
+    {
+      "id": "kit-servo-pid-lab",
+      "code": "KIT-SERVO-LAB",
+      "revision": "Đồ án / Lab",
+      "originType": "project-kit",
+      "category": "project-research",
+      "categoryLabel": {
+        "vi": "Đồ án & Mô hình NCKH",
+        "en": "Project & Research Kit"
+      },
+      "status": {
+        "vi": "Sẵn hàng tại kho",
+        "en": "In Stock"
+      },
+      "supplyForm": {
+        "vi": "Mạch PIDSM + Động cơ Encoder + Đế gá + Phần mềm vẽ đáp ứng",
+        "en": "Driver + Motor + Stand + Plotter Tool"
+      },
+      "price": 1900000,
+      "costPrice": 1120000,
+      "stock": 5,
+      "minStockAlert": 2,
+      "unit": "Bộ",
+      "showTechnicalGuide": true,
+      "name": {
+        "vi": "Bộ Kit Thực Hành Điều Khiển Động Cơ DC Servo PID & Thu Thập Đáp Ứng Thời Gian Thực (Đồ Án / NCKH)",
+        "en": "DC Servo PID Control & Step-Response Experimental Bench Kit (Thesis / Lab)"
+      },
+      "subtitle": {
+        "vi": "Thay đổi hệ số Kp, Ki, Kd trực tiếp qua UART · Vẽ biểu đồ vọt lố / xác lập cho báo cáo khoa học",
+        "en": "Live Kp/Ki/Kd Tuning via UART · Step-Response CSV Capture for Research Papers"
+      },
+      "description": {
+        "vi": "Giải pháp gọn nhẹ dành cho sinh viên và nhóm nghiên cứu làm đề tài về Lý thuyết Điều khiển tự động, so sánh PID kinh điển với Fuzzy PID hoặc khảo sát ảnh hưởng tải trọng. Cắm nguồn và cáp USB-UART là có thể nạp tốc độ, chỉnh hệ số và xuất ngay số liệu đáp ứng quá độ.",
+        "en": "Turnkey experimental setup for control-theory theses comparing classical PID vs. Fuzzy PID under varying loads. Connect USB-UART to adjust gains and export transient step-response curves."
+      },
+      "engineeringNotes": {
+        "vi": [
+          "Gá sẵn động cơ DC Encoder lên đế.",
+          "Cho phép đổi trực tiếp Kp, Ki, Kd, góc đặt hoặc vận tốc đặt ngay khi mô hình đang chạy.",
+          "Tặng kèm file mẫu Python / MATLAB đọc cổng COM và xuất đồ thị độ phân giải cao."
+        ],
+        "en": [
+          "Pre-mounted Encoder DC motor on rigid stand with visual degree dial.",
+          "Live tuning of Kp, Ki, Kd, position, and speed targets during operation.",
+          "Includes ready-to-run Python / MATLAB plotting script for high-DPI thesis charts."
+        ]
+      },
+      "techStack": [
+        "PID / Fuzzy PID",
+        "Đế đĩa chia độ",
+        "USB-UART Plotter",
+        "Kèm Script đồ thị"
+      ],
+      "specs": [
+        {
+          "label": {
+            "vi": "Thành phần bộ Kit",
+            "en": "Kit Contents"
+          },
+          "value": "1x PIDSM v2.2 + 1x Motor 24V Encoder + Đế chia độ + Cáp UART"
+        },
+        {
+          "label": {
+            "vi": "Chế độ khảo sát",
+            "en": "Experiment Modes"
+          },
+          "value": "Đáp ứng bậc thang Vị trí & Vận tốc, thử nhiễu tải"
+        },
+        {
+          "label": {
+            "vi": "Tần số lấy mẫu",
+            "en": "Sampling Rate"
+          },
+          "value": "200 Hz (Xuất chuẩn thời gian thực mỗi 5ms)"
+        }
+      ],
+      "architectureDiagram": "[PC / MATLAB / Python] ◄──(USB-UART 115200)──► [PIDSM v2.2] ──► [Motor + Đĩa chia độ]",
+      "codeSnippetTitle": "Tập lệnh thay đổi thông số PID để chụp nhiều đường đáp ứng so sánh",
+      "codeSnippet": "$PID,12.5,0.4,1.8\r\n   // Đặt Kp=12.5, Ki=0.4, Kd=1.8\n$STEP,180\r\n          // Ra lệnh quay góc bậc thang 180 độ & tự ghi log 3 giây",
+      "visualType": "servo-pid"
+    },
+    {
+      "id": "kit-conveyor-sorting",
+      "code": "KIT-SORT-ARM",
+      "revision": "Đồ án Kỹ thuật",
+      "originType": "project-kit",
+      "category": "project-research",
+      "categoryLabel": {
+        "vi": "Đồ án & Mô hình NCKH",
+        "en": "Project & Research Kit"
+      },
+      "status": {
+        "vi": "Nhận làm theo yêu cầu & Bán bộ mẫu",
+        "en": "Custom Built & Sample Ready"
+      },
+      "supplyForm": {
+        "vi": "Mô hình băng tải + Cảm biến + Gạt phân loại + Bo điều khiển nạp sẵn",
+        "en": "Conveyor + Sensors + Diverter + Controller"
+      },
+      "price": 5000000,
+      "costPrice": 2500000,
+      "stock": 3,
+      "minStockAlert": 1,
+      "unit": "Bộ",
+      "showTechnicalGuide": true,
+      "name": {
+        "vi": "Mô Hình Băng Tải & Cơ Cấu Phân Loại Sản Phẩm Tự Động Dùng Cảm Biến & Vi Điều Khiển (Đồ Án Kỹ Thuật)",
+        "en": "Automated Conveyor & Sensor-Based Product Sorting Trainer Model (Engineering Project)"
+      },
+      "subtitle": {
+        "vi": "Phân loại theo chiều cao (Laser) hoặc kim loại / màu sắc · Đếm sản phẩm qua màn hình HMI / LCD",
+        "en": "Height / Metal / Color Sorting · Live Product Counter Display · Ready to Present"
+      },
+      "description": {
+        "vi": "Mô hình thực tế phục vụ đồ án môn học Thiết kế hệ thống nhúng, Tự động hóa quá trình sản xuất và Cơ điện tử. Băng tải nhôm chạy êm, có cảm biến phát hiện đầu vào, cảm biến phân loại, cơ cấu tay gạt Servo/Solenoid và bộ đếm hiển thị số lượng từng loại rõ ràng.",
+        "en": "Ready-to-present automated sorting conveyor built for embedded and mechatronics coursework. Features quiet aluminum conveyor frame, optical/Laser detection, diverter actuator, and real-time counter display."
+      },
+      "engineeringNotes": {
+        "vi": [
+          "Tùy biến được tiêu chí phân loại theo đề bài của từng nhóm (chiều cao, kim loại, QR hoặc màu).",
+          "Hệ thống dây điện bọc gen gọn gàng, có công tắc nguồn tổng và nút Test từng khâu riêng lẻ.",
+          "Hỗ trợ hướng dẫn chi tiết giải thích sơ đồ mạch và lưu đồ giải thuật để tự tin bảo vệ trước hội đồng."
+        ],
+        "en": [
+          "Sorting criteria customizable to your project brief (height, metal, barcode, or color).",
+          "Cleanly harnessed industrial wiring with main power switch and manual per-stage test buttons.",
+          "Includes clear circuit explanation and flowchart guide for committee defense."
+        ]
+      },
+      "techStack": [
+        "Băng tải nhôm",
+        "Cảm biến Laser/Tiệm cận",
+        "Đếm tự động",
+        "Bản vẽ & Lưu đồ"
+      ],
+      "specs": [
+        {
+          "label": {
+            "vi": "Chiều dài băng tải",
+            "en": "Conveyor Length"
+          },
+          "value": "600 mm (Bản rộng dây PVC 100mm)"
+        },
+        {
+          "label": {
+            "vi": "Nguồn cấp toàn mô hình",
+            "en": "Input Power"
+          },
+          "value": "Adapter 12V / 24V (Đã tích hợp sẵn giắc cắm an toàn)"
+        },
+        {
+          "label": {
+            "vi": "Ngõ ra điều khiển",
+            "en": "Actuators"
+          },
+          "value": "1x Motor Băng tải + 2x Cơ cấu gạt + Bộ đếm 3 khay"
+        }
+      ],
+      "architectureDiagram": "[Cảm biến Laser/Quang] ──► [Bo điều khiển] ──► [Động cơ Băng tải + Tay gạt phân loại]\n                                   └──► [Màn hình đếm Khay A / B / C]",
+      "codeSnippetTitle": "Tập lệnh đọc số lượng sản phẩm đã phân loại qua UART",
+      "codeSnippet": "?COUNT\r\n\n// Phản hồi: \"!CNT,A:12,B:08,C:05,STATE:RUN\"",
+      "visualType": "io-encoder"
+    },
+    {
+      "id": "custom-3d-printing-service",
+      "code": "IN3D-REQ",
+      "revision": "PLA+ · PETG · TPU-ABS -CF",
+      "originType": "commercial",
+      "category": "mechanics-parts",
+      "categoryLabel": {
+        "vi": "In 3D & Cơ khí",
+        "en": "Custom 3D Printing"
+      },
+      "status": {
+        "vi": "Nhận in theo file 3D (.STL / .STEP / .OBJ) & Vẽ mẫu",
+        "en": "Custom Print from STL / STEP / OBJ"
+      },
+      "supplyForm": {
+        "vi": "In lẻ từ 1 chi tiết · Xử lý bavia & đóng gói chống sốc",
+        "en": "Single-part to batch printing · Deburred & packed"
+      },
+      "price": 0,
+      "costPrice": 0,
+      "stock": 50,
+      "minStockAlert": 5,
+      "unit": "Yêu cầu",
+      "showTechnicalGuide": true,
+      "name": {
+        "vi": "In 3D Chi tiết Cơ khí, Vỏ Hộp Mạch Điện tử & Mô hình Đồ án theo Yêu cầu",
+        "en": "On-Demand 3D Printing for Mechanical Parts, PCB Enclosures & Project Models"
+      },
+      "subtitle": {
+        "vi": "Vật liệu PLA+, PETG, ABS, TPU chịu lực · Nhận file .STL / .STEP hoặc hỗ trợ dựng 3D theo kích thước",
+        "en": "PLA+, PETG, ABS, TPU · Print from .STL / .STEP or custom CAD modeling"
+      },
+      "description": {
+        "vi": "Dịch vụ gia công in 3D độ chính xác cao chuyên phục vụ gá cảm biến Laser/Encoder, vỏ hộp bảo vệ bo mạch STM32, khớp nối tay máy robot, bánh răng và chi tiết mô hình đồ án / NCKH. Nhận in lẻ từ 1 chi tiết hoặc sản xuất số lượng theo yêu cầu.",
+        "en": "High-precision FDM 3D printing for sensor brackets, STM32 PCB enclosures, robotic arm joints, custom gears, and thesis prototypes. Available from single prototypes to small batches."
+      },
+      "engineeringNotes": {
+        "vi": [
+          "Báo giá nhanh theo khối lượng nhựa thực tế và thời gian in; ưu đãi cho sinh viên làm đồ án.",
+          "Khuyên dùng PETG hoặc ABS cho giá đỡ động cơ chịu nhiệt và cơ cấu chịu tải robot.",
+          "Hỗ trợ kiểm tra dung sai lỗ ốc, ren đồng ép nhiệt (heat-set insert) và bo góc chịu lực."
+        ],
+        "en": [
+          "Fast quote by filament weight and print time; special discounts for engineering student projects.",
+          "PETG / ABS recommended for heat-resistant motor mounts and load-bearing robot brackets.",
+          "Supports tolerance checks, M3/M4 brass heat-set inserts, and structural fillets."
+        ]
+      },
+      "techStack": [
+        "Nhựa PLA+ / PETG / TPU",
+        "Độ mịn 0.12 - 0.2mm",
+        "Nhận STL / STEP",
+        "Hỗ trợ vẽ CAD"
+      ],
+      "specs": [
+        {
+          "label": {
+            "vi": "Công nghệ & Khổ in",
+            "en": "Process & Build Size"
+          },
+          "value": "FDM Độ chính xác cao · 256 × 256 × 256 mm"
+        },
+        {
+          "label": {
+            "vi": "Vật liệu phổ biến",
+            "en": "Materials"
+          },
+          "value": "PLA+, PETG, ABS kỹ thuật, TPU dẻo (Đen/Trắng/Xám)"
+        },
+        {
+          "label": {
+            "vi": "Định dạng file nhận",
+            "en": "Accepted Formats"
+          },
+          "value": ".STL, .STEP, .OBJ hoặc bản vẽ phác tay kèm kích thước"
+        },
+        {
+          "label": {
+            "vi": "Đơn giá tham khảo",
+            "en": "Reference Price"
+          },
+          "value": "Từ 50.000đ / chi tiết nhỏ (Tính chuẩn theo gram & giờ in)"
+        }
+      ],
+      "architectureDiagram": "[File 3D (.STL / .STEP) hoặc Bản vẽ kích thước] ──► [Cắt lớp tối ưu chịu lực] ──► [In 3D + Gỡ support] ──► [Giao hàng tận nơi]",
+      "codeSnippetTitle": "Quy cách gửi file báo giá in 3D qua Zalo / Ghi chú đơn",
+      "codeSnippet": "1. Gửi file .STL / .STEP (hoặc ảnh kích thước dài x rộng x cao mm)\n2. Chọn vật liệu (PLA+ đẹp/cứng, PETG chịu lực/nhiệt, TPU dẻo)\n3. Chọn độ đặc Infill (20% vỏ hộp thường · 60-100% chi tiết chịu tải) & số lượng cần in",
+      "visualType": "io-encoder"
+    }
+  ],
+  "services": [
+    {
+      "id": "project-graduation-support",
+      "sectionCode": "DA-01",
+      "badge": {
+        "vi": "Đồ án Môn học · Tốt nghiệp",
+        "en": "Course & Graduation Thesis"
+      },
+      "title": {
+        "vi": "Hỗ trợ Đồ án Môn học & Đồ án Tốt nghiệp (Điện - Điện tử · Tự động hóa · Cơ điện tử)",
+        "en": "Engineering Coursework & Graduation Thesis Hardware/Firmware Support"
+      },
+      "description": {
+        "vi": "Nhận tư vấn đề tài, thiết kế sơ đồ nguyên lý, lắp ráp phần cứng hoàn chỉnh và lập trình hệ thống nhúng STM32 / ESP32 / PLC / Robot chạy ổn định đúng yêu cầu đề bài của trường.",
+        "en": "End-to-end assistance with topic scoping, schematic design, hardware assembly, and stable STM32/ESP32/Robot control implementation tailored to university grading criteria."
+      },
+      "deliverables": {
+        "vi": [
+          "Mô hình phần cứng hoặc bộ mạch chạy ổn định, đi dây gọn đẹp sẵn sàng trình chiếu bảo vệ",
+          "Hướng dẫn 1-1 giải thích chi tiết sơ đồ mạch, lưu đồ thuật toán và các câu hỏi phản biện",
+          "Bảo hành xử lý lỗi kỹ thuật cho tới ngày hoàn tất nghiệm thu bảo vệ đồ án"
+        ],
+        "en": [
+          "Working, neatly wired hardware prototype ready for live thesis demonstration",
+          "1-1 walkthrough covering circuit operation, flowcharts, and Q&A defense preparation",
+          "Technical support right through your final defense date"
+        ]
+      },
+      "turnaround": {
+        "vi": "1 – 3 tuần tùy quy mô đề tài",
+        "en": "1 – 3 weeks"
+      },
+      "pricingNote": {
+        "vi": "Báo giá hợp lý cho sinh viên",
+        "en": "Student-Friendly Pricing"
+      }
+    },
+    {
+      "id": "research-nc-experiment",
+      "sectionCode": "DA-02",
+      "badge": {
+        "vi": "Nghiên cứu Khoa học (NCKH)",
+        "en": "Scientific Research (R&D)"
+      },
+      "title": {
+        "vi": "Thực hiện Phần cứng Thực nghiệm & Thu thập Dữ liệu cho Đề tài Nghiên cứu Khoa học",
+        "en": "Experimental Testbeds & Telemetry Systems for Scientific Research"
+      },
+      "description": {
+        "vi": "Xây dựng bàn thí nghiệm thực tế, hệ thống cảm biến đo đạc chính xác và xuất file số liệu CSV thời gian thực để so sánh thuật toán (PID, Fuzzy PID, LQR, tối ưu quỹ đạo) cho bài báo & đề tài NCKH.",
+        "en": "Build precision experimental rigs and high-rate telemetry loggers exporting CSV datasets to benchmark control algorithms (PID, Fuzzy PID, trajectory tracking) for research papers."
+      },
+      "deliverables": {
+        "vi": [
+          "Bàn thí nghiệm phần cứng đồng bộ, ít nhiễu, độ lặp lại cao phục vụ chạy nhiều kịch bản thử nghiệm",
+          "Công cụ ghi log tự động xuất dữ liệu (CSV / MATLAB / Python) để vẽ biểu đồ so sánh sắc nét",
+          "Hỗ trợ hiệu chỉnh thông số thực nghiệm theo góp ý của giảng viên hướng dẫn"
+        ],
+        "en": [
+          "Low-noise, repeatable physical testbed built for multi-scenario experimentation",
+          "Automated CSV/MATLAB/Python logging scripts for publication-ready response charts",
+          "Iterative experimental tuning aligned with advisor feedback"
+        ]
+      },
+      "turnaround": {
+        "vi": "2 – 4 tuần kèm chạy thử nghiệm",
+        "en": "2 – 4 weeks"
+      },
+      "pricingNote": {
+        "vi": "Theo hạng mục thí nghiệm & thiết bị",
+        "en": "By Testbed Scope"
+      }
+    },
+    {
+      "id": "project-rescue-hardware",
+      "sectionCode": "DA-03",
+      "badge": {
+        "vi": "Sửa lỗi & Cứu tiến độ gấp",
+        "en": "Debug & Rescue Project"
+      },
+      "title": {
+        "vi": "Xử lý Mạch Nhiễu, Sửa Lỗi Mô hình Đang Làm Dở & Nâng cấp Chạy Ổn định",
+        "en": "EMI Debugging, Reset Fixing & Fast Rescue for In-Progress Prototypes"
+      },
+      "description": {
+        "vi": "Nhận kiểm tra và cứu nhanh các mô hình đồ án sắp tới hạn bảo vệ nhưng gặp sự cố: chip bị reset khi động cơ quay, sai xung Encoder, sai góc IMU, PID rung lắc hoặc chưa kịp hoàn thiện phần điện.",
+        "en": "Fast troubleshooting for near-deadline student/research models suffering from motor-induced resets, noisy encoder readings, IMU drift, unstable PID tuning, or incomplete wiring."
+      },
+      "deliverables": {
+        "vi": [
+          "Đo kiểm bằng Oscilloscope & Logic Analyzer tìm đúng nguyên nhân lỗi trong 24–48 giờ",
+          "Thay thế / bổ sung mạch driver chuẩn công nghiệp và tối ưu chống nhiễu nguồn – mass",
+          "Chạy test liên tục không treo trước khi bàn giao lại cho nhóm"
+        ],
+        "en": [
+          "Oscilloscope & Logic Analyzer root-cause audit within 24–48 hours",
+          "Power isolation, grounding cleanup, and reliable driver stage retrofit",
+          "Continuous soak-testing prior to handover"
+        ]
+      },
+      "turnaround": {
+        "vi": "Ưu tiên nhanh 2 – 5 ngày",
+        "en": "Fast-Track 2 – 5 days"
+      },
+      "pricingNote": {
+        "vi": "Báo chi phí sau khi kiểm tra lỗi",
+        "en": "Quoted After Triage"
+      }
+    },
+    {
+      "id": "project-ready-kit-combo",
+      "sectionCode": "DA-04",
+      "badge": {
+        "vi": "Combo Kit + Hướng dẫn",
+        "en": "Turnkey Kit + Guide"
+      },
+      "title": {
+        "vi": "Cung cấp Trọn bộ Kit Mô hình Đồ án Nạp sẵn & Tài liệu Trình bày Nguyên lý",
+        "en": "Pre-Built Educational & Research Model Kits with Complete Principles Guide"
+      },
+      "description": {
+        "vi": "Tiết kiệm thời gian tự mua lẻ từng món dễ sai chuẩn: cung cấp trọn bộ khung cơ khí, động cơ, cảm biến, mạch nguồn và bo điều khiển đã căn chỉnh sẵn — nhận về cắm điện là chạy kiểm tra được ngay.",
+        "en": "Avoid mismatched components and fried boards: order complete, calibrated kits (mechanics, motors, sensors, and pre-tuned controllers) that run right out of the box."
+      },
+      "deliverables": {
+        "vi": [
+          "Đầy đủ linh kiện đồng bộ đã test tải chạy mượt toàn hệ thống trước khi giao",
+          "Kèm bản vẽ sơ đồ kết nối, danh mục linh kiện và kịch bản demo mẫu",
+          "Hỗ trợ qua Zalo trong suốt quá trình nhóm quay video báo cáo và bảo vệ"
+        ],
+        "en": [
+          "Fully matched and load-tested kit hardware ready to demonstrate",
+          "Includes block/pinout schematics, BOM list, and demo sequence guide",
+          "Live Zalo support during video recording and final presentation"
+        ]
+      },
+      "turnaround": {
+        "vi": "Có sẵn mẫu hoặc lắp 3 – 5 ngày",
+        "en": "3 – 5 business days"
+      },
+      "pricingNote": {
+        "vi": "Trọn gói theo từng cấu hình Kit",
+        "en": "Fixed Kit Pricing"
+      }
+    }
+  ],
+  "orders": [],
+  "stockHistory": [],
+  "print3dMaterials": [
+    {
+      "id": "pla",
+      "name": "PLA",
+      "pricePerGram": 800,
+      "baseFee": 0,
+      "note": "Đẹp, cứng, vỏ hộp & mô hình"
+    },
+    {
+      "id": "petg",
+      "name": "PETG",
+      "pricePerGram": 400,
+      "baseFee": 0,
+      "note": "Chịu lực & chịu nhiệt tốt"
+    },
+    {
+      "id": "abs",
+      "name": "ABS",
+      "pricePerGram": 1300,
+      "baseFee": 0,
+      "note": "Cơ khí chịu nhiệt cao"
+    },
+    {
+      "id": "tpu",
+      "name": "TPU",
+      "pricePerGram": 1600,
+      "baseFee": 0,
+      "note": "Đàn hồi, giảm chấn"
+    },
+    {
+      "id": "carbon-cf",
+      "name": "Cacbon CF",
+      "pricePerGram": 30000,
+      "baseFee": 0,
+      "note": "Sợi carbon kỹ thuật siêu cứng"
+    }
+  ],
+  "print3dOrders": [],
+  "print3dSetup": {
+    "printerModel": "Creality Khổ Lớn 800×800 (0.4 nozzle)",
+    "nozzleMm": 0.4,
+    "layerHeightMm": 0.2,
+    "wallLoops": 3,
+    "topBottomLayers": 4,
+    "infillPercent": 20,
+    "supportEnabled": true,
+    "maxBuildX": 800,
+    "maxBuildY": 800,
+    "maxBuildZ": 800
+  }
+}
