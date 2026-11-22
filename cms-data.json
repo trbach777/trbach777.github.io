@@ -1234,6 +1234,7 @@
     {
       "id": "custom-3d-printing-service",
       "code": "IN3D-REQ",
+      "imageUrl": "./images/tbx-in3d-mau-in.jpg",
       "revision": "PLA+ · PETG · TPU-ABS -CF",
       "originType": "commercial",
       "category": "mechanics-parts",
